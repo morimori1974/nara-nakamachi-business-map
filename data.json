@@ -12,8 +12,9 @@
    "dist_km": 0.41,
    "category": "中小企業・工場",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.678760999999994,
-   "lng": 135.7551225
+   "lat": 34.67665,
+   "lng": 135.758084,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "大倭印刷株式会社",
@@ -24,29 +25,32 @@
    "category": "中小企業・工場",
    "src": "Googleマップ（業種キーワード検索）",
    "lat": 34.681315,
-   "lng": 135.75809
+   "lng": 135.75809,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "下元建設",
    "addr": "奈良市六条緑町３－４－２３",
    "biz": "建築工事（総合工務店）",
    "hp": "－",
-   "dist_km": 0.76,
+   "dist_km": 0.92,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.67083833333333,
-   "lng": 135.763344
+   "lat": 34.669719,
+   "lng": 135.765349,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "鈴木電工",
    "addr": "奈良市六条緑町３－８－５０",
    "biz": "電気工事",
    "hp": "－",
-   "dist_km": 0.76,
+   "dist_km": 0.92,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.67083646707089,
-   "lng": 135.7633496138488
+   "lat": 34.66971806686878,
+   "lng": 135.7653518069244,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "べっぴん奈良漬",
@@ -56,85 +60,93 @@
    "dist_km": 0.9,
    "category": "中小企業・工場",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.678749960841586,
-   "lng": 135.75519199852997
+   "lat": 34.682095,
+   "lng": 135.754187,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "株式会社ＣａｒｒｙＴｏｍｏｒｒｏｗ",
    "addr": "奈良市六条西３丁目１３番３２－３号",
    "biz": "荷物の梱包・運搬・宅配、引越し荷物や遺品の運搬・処分、貨物利用運送、書類等の仕分・保管・配送",
    "hp": "https://carry-tomorrow.com/",
-   "dist_km": 1.18,
+   "dist_km": 1.19,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.668161166666664,
-   "lng": 135.76815966666666
+   "lat": 34.668263,
+   "lng": 135.768743,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（株）アクティブエナジー",
    "addr": "奈良市六条西５－１０－１７",
    "biz": "電気工事・太陽光発電・リフォーム・不動産・住宅新築等（アクティブエナジーグループ）",
    "hp": "https://active-energy.co.jp/",
-   "dist_km": 1.18,
+   "dist_km": 1.47,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.668445913415916,
-   "lng": 135.7686054340304
+   "lat": 34.664882,
+   "lng": 135.766791,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（株）稲田設備",
    "addr": "奈良市六条西１－４－４１－１",
    "biz": "給排水・空調等の設備工事、管工事",
    "hp": "http://www.avis.ne.jp/~ina-setu/",
-   "dist_km": 1.18,
+   "dist_km": 1.01,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.668048171895805,
-   "lng": 135.7682274390694
+   "lat": 34.671606,
+   "lng": 135.770711,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（株）エナジーサポート",
    "addr": "奈良市六条西５－１０－１７",
    "biz": "電気設備・空調・太陽光発電等の各種住宅設備工事（アクティブエナジーグループ）",
    "hp": "https://active-energy.co.jp/",
-   "dist_km": 1.18,
+   "dist_km": 1.46,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66829882583876,
-   "lng": 135.7681092966409
+   "lat": 34.665029272852806,
+   "lng": 135.76703913228351,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（株）小松工業",
    "addr": "奈良市六条西１－４－４６－８",
    "biz": "鉄骨工事（鉄骨組立・溶接・ガス切断等）",
    "hp": "https://k-kougyou.net/",
-   "dist_km": 1.18,
+   "dist_km": 1.02,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.6680335766391,
-   "lng": 135.76806811309774
+   "lat": 34.671636774229874,
+   "lng": 135.77079560287964,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "俊幸建設",
    "addr": "奈良市六条西４－４－１８",
    "biz": "土木工事（とび・土工、舗装、水道施設工事等）",
    "hp": "－",
-   "dist_km": 1.18,
+   "dist_km": 1.49,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66815813015979,
-   "lng": 135.76813659459393
+   "lat": 34.66617,
+   "lng": 135.770906,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "正栄アシスト建設",
    "addr": "奈良市六条西３－５－７",
    "biz": "建築工事（総合建設）",
    "hp": "－",
-   "dist_km": 1.18,
+   "dist_km": 1.19,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.668308490996694,
-   "lng": 135.76825391782722
+   "lat": 34.6682592860205,
+   "lng": 135.7687701188794,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（株）Ｓｋｙ－Ｒ",
@@ -144,173 +156,189 @@
    "dist_km": 1.18,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66790237128384,
-   "lng": 135.7678060288781
+   "lat": 34.667196,
+   "lng": 135.764741,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（有）ナイス・インテリア",
    "addr": "奈良市六条西４－４－１４",
    "biz": "内装工事・インテリア工事",
    "hp": "－",
-   "dist_km": 1.18,
+   "dist_km": 1.51,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66775163842309,
-   "lng": 135.76831973626548
+   "lat": 34.666026399061884,
+   "lng": 135.7708904600784,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "永富工務店",
    "addr": "奈良市六条西４－３－５－１",
    "biz": "建築工事（総合工務店）",
    "hp": "－",
-   "dist_km": 1.18,
+   "dist_km": 1.49,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66765581861108,
-   "lng": 135.76836312551652
+   "lat": 34.666247811019204,
+   "lng": 135.77103293586268,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（有）ビジェ",
    "addr": "奈良市六条西６－３－１７",
    "biz": "造園工事",
    "hp": "－",
-   "dist_km": 1.18,
+   "dist_km": 1.2,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.6677998268095,
-   "lng": 135.76834994166154
+   "lat": 34.66702244396981,
+   "lng": 135.76474476130915,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "福井建築",
    "addr": "奈良市六条西５－１５－１",
    "biz": "建築工事（総合工務店）",
    "hp": "－",
-   "dist_km": 1.18,
+   "dist_km": 1.49,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.667884541899085,
-   "lng": 135.7686155779812
+   "lat": 34.66475619181158,
+   "lng": 135.76677446691002,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "みち建築工房",
    "addr": "奈良市六条西３－１７－１６",
    "biz": "建築工事（リフォーム・木造建築等）",
    "hp": "－",
-   "dist_km": 1.18,
+   "dist_km": 1.2,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66852389377784,
-   "lng": 135.76775286829474
+   "lat": 34.668237859800016,
+   "lng": 135.76883186200044,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（株）山電エンジニアリング",
    "addr": "奈良市六条西３－１８－１１",
    "biz": "電気設備工事、制御盤設計・製作、ＰＬＣ設計等",
    "hp": "https://www.yamaden-eng.co.jp/",
-   "dist_km": 1.18,
+   "dist_km": 1.21,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.668042688070116,
-   "lng": 135.76759521798098
+   "lat": 34.66815708259857,
+   "lng": 135.76887521076156,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "リーフガーデン",
    "addr": "奈良市六条西３－２－９",
    "biz": "外構・造園（植木剪定）・エクステリア工事",
    "hp": "https://www.leaf-garden.jp/",
-   "dist_km": 1.18,
+   "dist_km": 1.22,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66839435387405,
-   "lng": 135.7683727905134
+   "lat": 34.668113026837894,
+   "lng": 135.76896434838753,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "関西緑地サービス株式会社",
    "addr": "奈良市疋田町２－２－４",
    "biz": "道路・公園等の清掃、除草、草刈等、浚渫（泥上げ）、庭園管理",
    "hp": "https://www.kansai-ryokuchi.co.jp/",
-   "dist_km": 1.25,
+   "dist_km": 1.58,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.688438,
-   "lng": 135.758694
+   "lat": 34.691122,
+   "lng": 135.767984,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（有）坂田技研",
    "addr": "奈良市疋田町１－６－１５",
    "biz": "左官工事",
    "hp": "－",
-   "dist_km": 1.25,
+   "dist_km": 1.44,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.68853455580487,
-   "lng": 135.75870243384446
+   "lat": 34.688617,
+   "lng": 135.770784,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（株）せっけん",
    "addr": "奈良市疋田町２－１－５０",
    "biz": "建築工事（総合建設）",
    "hp": "－",
-   "dist_km": 1.25,
+   "dist_km": 1.61,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.688630430419316,
-   "lng": 135.7586511795522
+   "lat": 34.691348857528034,
+   "lng": 135.76814219230312,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "竹島瓦葺店",
    "addr": "奈良市疋田町３－３－１０",
    "biz": "屋根工事（かわらぶき工事）",
    "hp": "－",
-   "dist_km": 1.25,
+   "dist_km": 1.41,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.68833012935947,
-   "lng": 135.75820074440335
+   "lat": 34.689843,
+   "lng": 135.766594,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（有）辻本商会",
    "addr": "奈良市疋田町２－３－７",
    "biz": "ＡＬＣ版工事・耐火被覆工事",
    "hp": "http://tsujimoto-alc.com/",
-   "dist_km": 1.25,
+   "dist_km": 1.55,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.688492313956395,
-   "lng": 135.75925787485605
+   "lat": 34.690874648143456,
+   "lng": 135.76787141853106,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "奈良断熱工業所",
    "addr": "奈良市疋田町２－７－４７",
    "biz": "断熱工事",
    "hp": "－",
-   "dist_km": 1.25,
+   "dist_km": 1.59,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.688418902813616,
-   "lng": 135.7589412599722
+   "lat": 34.69111857491182,
+   "lng": 135.76825454322892,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "ＢＯＴＴＡ　Ｅｌｅｃｔｒｉｃ　Ｗｏｒｋ",
    "addr": "奈良市疋田町３－３－１１",
    "biz": "電気工事",
    "hp": "https://www.botta-ew.jp/",
-   "dist_km": 1.25,
+   "dist_km": 1.4,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.68846449231526,
-   "lng": 135.75870694953517
+   "lat": 34.689719853055294,
+   "lng": 135.7666947865794,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "大和庭研",
    "addr": "奈良市疋田町４－１６０－４",
    "biz": "造園工事",
    "hp": "－",
-   "dist_km": 1.25,
+   "dist_km": 1.31,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.688411503945865,
-   "lng": 135.75866083015504
+   "lat": 34.688639,
+   "lng": 135.767652,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "株式会社池田出版印刷社",
@@ -320,8 +348,9 @@
    "dist_km": 1.3,
    "category": "中小企業・工場",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.682291199999995,
-   "lng": 135.7742702
+   "lat": 34.682401,
+   "lng": 135.775406,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "株式会社アスカ電工",
@@ -332,40 +361,44 @@
    "category": "中小企業・工場",
    "src": "",
    "lat": 34.669969,
-   "lng": 135.773664
+   "lng": 135.773664,
+   "geo_method": "exact(kanji-chome)"
   },
   {
    "name": "ヤブウチ建設株式会社",
    "addr": "奈良市六条二丁目5番19号",
    "biz": "総合建設業（土木・造園・建築工事、外構工事、不動産事業）",
    "hp": "https://yabu-ken.co.jp/",
-   "dist_km": 1.34,
+   "dist_km": 1.32,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.6701155109094,
-   "lng": 135.77332438378593
+   "lat": 34.6700422554547,
+   "lng": 135.77349419189298,
+   "geo_method": "exact(kanji-chome)"
   },
   {
    "name": "株式会社北浦商会",
    "addr": "奈良市六条二丁目4番12号",
    "biz": "外構工事・造園工事・解体工事",
    "hp": "https://www.kitaura-syokai.com/",
-   "dist_km": 1.34,
+   "dist_km": 1.35,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66954341545629,
-   "lng": 135.77370149678438
+   "lat": 34.66975620772815,
+   "lng": 135.7736827483922,
+   "geo_method": "exact(kanji-chome)"
   },
   {
    "name": "株式会社世古工務店",
    "addr": "奈良市六条二丁目5番20号1",
    "biz": "総合建設業（土木・建築工事、地盤改良工事）",
    "hp": "https://www.seko-c.co.jp/",
-   "dist_km": 1.34,
+   "dist_km": 1.36,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.6699264587121,
-   "lng": 135.7742378929735
+   "lat": 34.66994772935605,
+   "lng": 135.77395094648676,
+   "geo_method": "exact(kanji-chome)"
   },
   {
    "name": "横田工務店",
@@ -376,18 +409,20 @@
    "category": "中小企業・工場",
    "src": "",
    "lat": 34.664988,
-   "lng": 135.760081
+   "lng": 135.760081,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "（株）イシキ",
    "addr": "奈良市石木町１６０－１",
    "biz": "造園工事業（植栽・土木・外構工事）",
    "hp": "－",
-   "dist_km": 1.42,
+   "dist_km": 1.44,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66459768102604,
-   "lng": 135.7602250026311
+   "lat": 34.66479284051302,
+   "lng": 135.76015300131556,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "（株）シンコーリノベーション",
@@ -397,30 +432,33 @@
    "dist_km": 1.42,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66499432313607,
-   "lng": 135.76003341787836
+   "lat": 34.66499116156803,
+   "lng": 135.76005720893917,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "（株）ダイコウテック",
    "addr": "奈良市石木町１９７",
    "biz": "仮設足場工事、とび・土工工事",
    "hp": "https://www.daikoutec.co.jp/",
-   "dist_km": 1.42,
+   "dist_km": 1.4,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66532194152257,
-   "lng": 135.76042035173674
+   "lat": 34.665154970761286,
+   "lng": 135.76025067586838,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "（株）中内工務店",
    "addr": "奈良市石木町６７２",
    "biz": "木造住宅新築・リフォーム工事（工務店）",
    "hp": "https://www.nakauchi-koumuten.jp/",
-   "dist_km": 1.42,
+   "dist_km": 1.44,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.664635729641304,
-   "lng": 135.75991670367438
+   "lat": 34.664811864820656,
+   "lng": 135.7599988518372,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "ステンレス・アート藤本",
@@ -430,8 +468,9 @@
    "dist_km": 1.42,
    "category": "中小企業・工場",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66499688809901,
-   "lng": 135.76011274663827
+   "lat": 34.6649924440495,
+   "lng": 135.76009687331916,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "株式会社東栄",
@@ -441,151 +480,153 @@
    "dist_km": 1.42,
    "category": "中小企業・工場",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66498634213105,
-   "lng": 135.7600773793324
+   "lat": 34.664987171065526,
+   "lng": 135.7600791896662,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "竹田水道工業（株）",
    "addr": "奈良市中町２３５－１",
    "biz": "水道工事（管工事・上下水道施設工事）",
    "hp": "https://www.takeda-suidou.com/",
-   "dist_km": 1.44,
+   "dist_km": 0.75,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.673048,
-   "lng": 135.747687
+   "lat": 34.673272,
+   "lng": 135.756141,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "株式会社西奈良測技",
    "addr": "奈良市中町2491番地の1",
    "biz": "測量業務",
    "hp": "－",
-   "dist_km": 1.44,
+   "dist_km": 1.63,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.67312339859305,
-   "lng": 135.7481678347783
+   "lat": 34.676437,
+   "lng": 135.744674,
+   "geo_method": "precise-geocodejp-unverified"
   },
   {
    "name": "アサカハウジング",
    "addr": "奈良市中町４１００－１",
    "biz": "新築・増改築・リフォーム工事（外装内装・外構工事）",
    "hp": "https://www.asaka-housing.com/",
-   "dist_km": 1.44,
+   "dist_km": 1.62,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.67267499801983,
-   "lng": 135.74768725689796
+   "lat": 34.672686,
+   "lng": 135.745792,
+   "geo_method": "precise-geocodejp-unverified"
   },
   {
    "name": "（有）大川電気商会",
    "addr": "奈良市中町４９８２",
    "biz": "電気工事業",
    "hp": "https://www.ohkawadenki.com/",
-   "dist_km": 1.44,
+   "dist_km": 0.26,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.6730473771151,
-   "lng": 135.74767478676824
+   "lat": 34.6757,
+   "lng": 135.760772,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "（有）きたでんき",
    "addr": "奈良市中町５１０９－４",
    "biz": "電気工事（住宅設備・空調・給排水工事含む）",
    "hp": "－",
-   "dist_km": 1.44,
+   "dist_km": 0.3,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.67299463920327,
-   "lng": 135.7477109348863
+   "lat": 34.676901,
+   "lng": 135.765592,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "（株）青龍",
    "addr": "奈良市中町２４２２－１本陣ビル２階",
    "biz": "総合建設業（土木・建築・解体等各種工事）",
    "hp": "－",
-   "dist_km": 1.44,
+   "dist_km": 1.33,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.67307875017695,
-   "lng": 135.7478710999387
+   "lat": 34.674982,
+   "lng": 135.748188,
+   "geo_method": "precise-geocodejp-unverified"
   },
   {
    "name": "大和家具製作所",
    "addr": "奈良市中町３９８８－４",
    "biz": "家具製造",
    "hp": "－",
-   "dist_km": 1.44,
+   "dist_km": 1.63,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.67278947868414,
-   "lng": 135.7472784058963
+   "lat": 34.67163,
+   "lng": 135.74612,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "高松建設",
    "addr": "奈良市中町４８５４－１",
    "biz": "建築工事（総合工務店）",
    "hp": "－",
-   "dist_km": 1.44,
+   "dist_km": 0.91,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.672525528360794,
-   "lng": 135.74741221861711
+   "lat": 34.671267,
+   "lng": 135.756256,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "（株）ＴＡＫＥＬホールディングス",
    "addr": "奈良市中町２３５－１",
    "biz": "グループ持株会社（旧：株式会社ＴＳＫトータルサービス、総合サービス業）",
    "hp": "－",
-   "dist_km": 1.44,
+   "dist_km": 0.74,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.673036249910524,
-   "lng": 135.74770230682017
+   "lat": 34.67331187919812,
+   "lng": 135.7563272280237,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "（株）中電",
    "addr": "奈良市中町２５８－１２１",
    "biz": "電気工事業",
    "hp": "－",
-   "dist_km": 1.44,
+   "dist_km": 0.59,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.67336646576637,
-   "lng": 135.7477507063811
+   "lat": 34.675101,
+   "lng": 135.756701,
+   "geo_method": "precise-geocodejp-unverified"
   },
   {
    "name": "（株）求組",
    "addr": "奈良市中町５０６４－９",
    "biz": "土木工事業",
    "hp": "－",
-   "dist_km": 1.44,
+   "dist_km": 0.03,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.67299970057067,
-   "lng": 135.7478483622547
-  },
-  {
-   "name": "藪ノ内板金（株）",
-   "addr": "奈良市中町３３２７－２８３",
-   "biz": "板金工事（屋根工事・雨樋工事・外壁板金工事）",
-   "hp": "https://www.yabunouchi-bankin.com/",
-   "dist_km": 1.44,
-   "category": "中小企業・工場",
-   "src": "",
-   "lat": 34.67314068582693,
-   "lng": 135.7476806072712
+   "lat": 34.67735,
+   "lng": 135.762417,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "株式会社宏栄",
    "addr": "奈良市中町4366-2",
    "biz": "金属切削加工業（ボルト・ナット・リベット・木ねじ等の製造）",
    "hp": "－",
-   "dist_km": 1.44,
+   "dist_km": 1.31,
    "category": "中小企業・工場",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67323344758744,
-   "lng": 135.74729525140677
+   "lat": 34.671181,
+   "lng": 135.750405,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "株式会社浜名技術コンサルタント",
@@ -596,51 +637,56 @@
    "category": "中小企業・工場",
    "src": "",
    "lat": 34.686793,
-   "lng": 135.774646
+   "lng": 135.774646,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "株式会社都ウイズテック",
    "addr": "奈良市菅原町9番地の1",
    "biz": "総合建設業（上下水道工事・設備工事・土木工事等）",
    "hp": "http://miyako-wt.co.jp/",
-   "dist_km": 1.51,
+   "dist_km": 1.52,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.68707284805795,
-   "lng": 135.7744396862931
+   "lat": 34.68693292402898,
+   "lng": 135.77454284314655,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "アトラス工営株式会社",
    "addr": "奈良市菅原町650番地1",
    "biz": "測量設計業",
    "hp": "－",
-   "dist_km": 1.51,
+   "dist_km": 1.52,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.686799278654775,
-   "lng": 135.7747771865605
+   "lat": 34.686796139327384,
+   "lng": 135.77471159328024,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "有限会社栄林建設",
    "addr": "奈良市菅原町268番地の10",
    "biz": "建築工事（新築・リフォーム・改装工事、公共工事）",
    "hp": "https://eibayashi.com/",
-   "dist_km": 1.51,
+   "dist_km": 1.52,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.68682902918332,
-   "lng": 135.77485630722447
+   "lat": 34.68681101459166,
+   "lng": 135.77475115361224,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "株式会社アールステイ",
    "addr": "奈良市菅原町６５０番地１",
    "biz": "建物日常清掃・外構外床清掃・特殊清掃（カビ除去、タイル清掃等）",
    "hp": "https://r-stay.com/",
-   "dist_km": 1.51,
+   "dist_km": 1.52,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.68679163646479,
-   "lng": 135.77478012498295
+   "lat": 34.6867923182324,
+   "lng": 135.77471306249146,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "株式会社ダスキン山城",
@@ -650,30 +696,33 @@
    "dist_km": 1.51,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.686898138064244,
-   "lng": 135.77458066145985
+   "lat": 34.68684556903212,
+   "lng": 135.77461333072992,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "ＴＡＴＥＲＵＮＡＲＡ（株）",
    "addr": "奈良市菅原町５６５－１",
    "biz": "高気密・高断熱の注文住宅設計施工・リノベーション",
    "hp": "https://www.taterunara.jp/",
-   "dist_km": 1.51,
+   "dist_km": 1.52,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.68688893898462,
-   "lng": 135.7746661151008
+   "lat": 34.686840969492316,
+   "lng": 135.7746560575504,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "中川工務店",
    "addr": "奈良市菅原町３９６－５",
    "biz": "住宅リフォーム・新築工事（工務店）",
    "hp": "－",
-   "dist_km": 1.51,
+   "dist_km": 1.52,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.68668164313698,
-   "lng": 135.77496892962392
+   "lat": 34.686737321568486,
+   "lng": 135.77480746481194,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "（株）吉正通信",
@@ -683,8 +732,9 @@
    "dist_km": 1.51,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.6866439174372,
-   "lng": 135.77468931558693
+   "lat": 34.6867184587186,
+   "lng": 135.77466765779346,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "株式会社きりしま",
@@ -694,8 +744,9 @@
    "dist_km": 1.51,
    "category": "中小企業・工場",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68670675807565,
-   "lng": 135.77460781838522
+   "lat": 34.686749879037826,
+   "lng": 135.7746269091926,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "関西電資株式会社",
@@ -705,118 +756,129 @@
    "dist_km": 1.56,
    "category": "中小企業・工場",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.69466566666667,
-   "lng": 135.76274644444445
+   "lat": 34.691609,
+   "lng": 135.763851,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "有限会社プロショップリム",
    "addr": "奈良市六条１－１－２サンライズⅡ１０２",
    "biz": "スポーツ用品販売（バスケットボール用品専門店）",
    "hp": "－",
-   "dist_km": 1.59,
+   "dist_km": 1.86,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66874266666667,
-   "lng": 135.775993
+   "lat": 34.669273,
+   "lng": 135.77997,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "アポロ電機（株）",
    "addr": "奈良市六条１－１３－３４",
    "biz": "電気工事業（発電・配電設備、太陽光発電設備工事等）",
    "hp": "－",
-   "dist_km": 1.59,
+   "dist_km": 1.85,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66876071266384,
-   "lng": 135.77598531226604
+   "lat": 34.66928202299858,
+   "lng": 135.779966156133,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（株）河島工務店",
    "addr": "奈良市六条３－１１－３",
    "biz": "建築工事・リフォーム工事",
    "hp": "－",
-   "dist_km": 1.59,
+   "dist_km": 1.61,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66892381668622,
-   "lng": 135.77631024764716
+   "lat": 34.666986,
+   "lng": 135.774345,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "岸川鉄工",
    "addr": "奈良市六条１－３０－２９",
    "biz": "鉄骨・金属加工（鉄工所）",
    "hp": "－",
-   "dist_km": 1.59,
+   "dist_km": 1.88,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66893882133686,
-   "lng": 135.77551755939416
+   "lat": 34.669058643709484,
+   "lng": 135.78013540146486,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（株）ＧＲＧ",
    "addr": "奈良市六条１－１－３－２Ｆ",
    "biz": "住宅リフォーム・水回り修理・外壁塗装工事",
    "hp": "https://naragrg.com/",
-   "dist_km": 1.59,
+   "dist_km": 1.85,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.668785685311704,
-   "lng": 135.77653288141062
+   "lat": 34.66926736284301,
+   "lng": 135.77993252616636,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "助川板金工作所",
    "addr": "奈良市六条３－１１－６",
    "biz": "板金工事",
    "hp": "－",
-   "dist_km": 1.59,
+   "dist_km": 1.63,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66831737163088,
-   "lng": 135.7763627363571
+   "lat": 34.66696396948277,
+   "lng": 135.77460979830695,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "総合建設業 土井建設",
    "addr": "奈良市六条３－６－３０",
    "biz": "外構工事・リフォーム工事（総合建設業）",
    "hp": "https://doikensetsu-nara.com/",
-   "dist_km": 1.59,
+   "dist_km": 1.63,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66898218926937,
-   "lng": 135.77625151574247
+   "lat": 34.666839611126555,
+   "lng": 135.7743926278049,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（株）ビーライフ",
    "addr": "奈良市六条２－１１－１８",
    "biz": "注文住宅・リフォーム（一級建築士事務所）",
    "hp": "https://blife.co.jp/",
-   "dist_km": 1.59,
+   "dist_km": 1.32,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66880921062368,
-   "lng": 135.7757535485878
+   "lat": 34.67021117731505,
+   "lng": 135.7736142567439,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（株）ＢＥＸ",
    "addr": "奈良市六条３－１４",
    "biz": "建設関連工事業",
    "hp": "－",
-   "dist_km": 1.59,
+   "dist_km": 1.6,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66874289488811,
-   "lng": 135.77599262290443
+   "lat": 34.66699812353928,
+   "lng": 135.7741712932522,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "薮内電工",
    "addr": "奈良市六条１－３０－２４",
    "biz": "電気工事",
    "hp": "－",
-   "dist_km": 1.59,
+   "dist_km": 1.86,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66887818211824,
-   "lng": 135.77584170647998
+   "lat": 34.66927407646864,
+   "lng": 135.77996985546835,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "日緑製茶株式会社",
@@ -826,8 +888,9 @@
    "dist_km": 1.79,
    "category": "中小企業・工場",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.686609000000004,
-   "lng": 135.7799475
+   "lat": 34.685375,
+   "lng": 135.779543,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（有）山岡建設",
@@ -838,161 +901,176 @@
    "category": "中小企業・工場",
    "src": "",
    "lat": 34.680633,
-   "lng": 135.781717
+   "lng": 135.781717,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "植原美術印刷株式会社",
    "addr": "奈良市西大寺芝町2-2089",
    "biz": "印刷業（オフセット・美術印刷、デザイン）",
    "hp": "http://www.uehara-a-p.jp/",
-   "dist_km": 1.81,
+   "dist_km": 1.99,
    "category": "中小企業・工場",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.691666999999995,
-   "lng": 135.77801
+   "lat": 34.691376,
+   "lng": 135.776332,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "第一設計監理株式会社",
    "addr": "奈良市六条一丁目34-27",
    "biz": "建設コンサルタント（測量・土木設計・工事監理）",
    "hp": "http://daiichi-skc.jp/",
-   "dist_km": 1.86,
+   "dist_km": 1.87,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.669273,
-   "lng": 135.77997
+   "lat": 34.66918758818296,
+   "lng": 135.78008585649744,
+   "geo_method": "exact(kanji-chome)"
   },
   {
    "name": "（株）アイテック",
    "addr": "奈良市学園大和町６－７０８－１－６３０",
    "biz": "建設関連工事業",
    "hp": "－",
-   "dist_km": 1.88,
+   "dist_km": 2.4,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.68808633333333,
-   "lng": 135.746187
+   "lat": 34.691241,
+   "lng": 135.742043,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "オーテックス（株）",
    "addr": "奈良市学園大和町１－１－４",
    "biz": "レーザー機器・光学機器・医療理化学機器の製造販売",
    "hp": "https://www.autex-inc.co.jp/",
-   "dist_km": 1.88,
+   "dist_km": 1.92,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.68784673101832,
-   "lng": 135.7457527533698
+   "lat": 34.689957,
+   "lng": 135.747735,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（株）カルス",
    "addr": "奈良市学園大和町２－４６－２０５",
    "biz": "新築・リフォーム工事、内装仕上・建具工事",
    "hp": "https://www.calse.co.jp/",
-   "dist_km": 1.88,
+   "dist_km": 1.36,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.68827229661988,
-   "lng": 135.74606094354405
+   "lat": 34.686245,
+   "lng": 135.751784,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "ＴＡＩＹＯ ＨＯＭＥ（株）",
    "addr": "奈良市学園大和町２－５２",
    "biz": "注文住宅・新築一戸建て・不動産仲介",
    "hp": "https://taiyohome-inc.com/",
-   "dist_km": 1.88,
+   "dist_km": 1.35,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.688055901811666,
-   "lng": 135.74615241117695
+   "lat": 34.686130652424175,
+   "lng": 135.75184065362487,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（株）日栄電設",
    "addr": "奈良市学園大和町１－１－１",
    "biz": "電気工事（電気設備工事）",
    "hp": "－",
-   "dist_km": 1.88,
+   "dist_km": 1.92,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.688128261984964,
-   "lng": 135.74617894947664
+   "lat": 34.69014755945802,
+   "lng": 135.74788378570025,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（株）みやこ電化センター",
    "addr": "奈良市学園大和町１－１－２４",
    "biz": "家電販売・電器修理・電気工事",
    "hp": "－",
-   "dist_km": 1.88,
+   "dist_km": 1.9,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.68808803148153,
-   "lng": 135.74618793762895
+   "lat": 34.68987025819878,
+   "lng": 135.7478427854456,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "宮本建設",
    "addr": "奈良市学園大和町６－６６５－６サンクタス・リビオ学園大和緑のまち５１１",
    "biz": "建築工事（総合工務店）",
    "hp": "－",
-   "dist_km": 1.88,
+   "dist_km": 2.4,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.687920478202074,
-   "lng": 135.74629189924366
+   "lat": 34.69128959560986,
+   "lng": 135.74201908242307,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（株）ライフアートプランテック",
    "addr": "奈良市学園大和町２－１９７－１",
    "biz": "内装工事の企画提案・施工、リフォーム",
    "hp": "https://sv16.wadax.ne.jp/~la-p-co-jp/",
-   "dist_km": 1.88,
+   "dist_km": 1.38,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.68834939462049,
-   "lng": 135.74618381576022
+   "lat": 34.686298119863814,
+   "lng": 135.75157730440856,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "ライフコラボ（合）",
    "addr": "奈良市学園大和町６－７０８－１－４３１",
    "biz": "福祉用具貸与・特定福祉用具販売、住宅バリアフリー改修工事",
    "hp": "－",
-   "dist_km": 1.88,
+   "dist_km": 2.41,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.688306932758806,
-   "lng": 135.7457344089702
+   "lat": 34.69122311378627,
+   "lng": 135.74185564710805,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "中西加工所",
    "addr": "奈良市学園大和町2丁目200-5",
    "biz": "人材紹介・在宅ワーク（内職）あっせん業",
    "hp": "－",
-   "dist_km": 1.88,
+   "dist_km": 1.35,
    "category": "中小企業・工場",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68811714438114,
-   "lng": 135.74616827050434
+   "lat": 34.68609595658756,
+   "lng": 135.75188451426243,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（株）大和防水工業",
    "addr": "奈良市菅原東２－３－５",
    "biz": "総合防水工事・外壁塗装工事",
    "hp": "https://www.daiwa-wp.com/",
-   "dist_km": 1.89,
+   "dist_km": 1.99,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.68641852515571,
-   "lng": 135.78013098531375
+   "lat": 34.687843,
+   "lng": 135.780352,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（株）ムラクモコーポレーション",
    "addr": "奈良市菅原東１丁目１番２号",
    "biz": "注文住宅・分譲住宅の建築、リフォーム・リノベーション",
    "hp": "http://murakumo-co.jp/",
-   "dist_km": 1.89,
+   "dist_km": 1.79,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.68648997641215,
-   "lng": 135.78030490912602
+   "lat": 34.68530694192029,
+   "lng": 135.7795928746145,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "ＥＩＳＥＩ建設（株）",
@@ -1003,7 +1081,8 @@
    "category": "中小企業・工場",
    "src": "",
    "lat": 34.663242,
-   "lng": 135.750112
+   "lng": 135.750112,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "黒田工務店",
@@ -1013,19 +1092,21 @@
    "dist_km": 1.96,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66320727697337,
-   "lng": 135.75023222276027
+   "lat": 34.66322463848668,
+   "lng": 135.75017211138015,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "（株）サンライズホーム",
    "addr": "奈良市学園南３－４－１８",
    "biz": "不動産仲介・賃貸管理、住宅建築",
    "hp": "－",
-   "dist_km": 1.96,
+   "dist_km": 2.01,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.693451333333336,
-   "lng": 135.752975
+   "lat": 34.692691,
+   "lng": 135.750316,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "第五建設（株）",
@@ -1035,8 +1116,9 @@
    "dist_km": 1.96,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66316770586862,
-   "lng": 135.75018815344055
+   "lat": 34.66320485293431,
+   "lng": 135.75015007672027,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "高橋建設",
@@ -1046,74 +1128,81 @@
    "dist_km": 1.96,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66347893517909,
-   "lng": 135.74963641231153
+   "lat": 34.66336046758955,
+   "lng": 135.74987420615577,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "奈良シティ建設（株）",
    "addr": "奈良市学園南１－６－１１",
    "biz": "住宅建築・リフォーム工事",
    "hp": "－",
-   "dist_km": 1.96,
+   "dist_km": 2.13,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.6937576369534,
-   "lng": 135.75339028801392
+   "lat": 34.695581,
+   "lng": 135.754229,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "奈良シティハウス（株）",
    "addr": "奈良市学園南１－６－１１",
    "biz": "不動産仲介(マンション・土地・戸建の売買仲介)",
    "hp": "https://www.nara-ch.co.jp/",
-   "dist_km": 1.96,
+   "dist_km": 2.12,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.693700077731414,
-   "lng": 135.75326462192692
+   "lat": 34.695503504479305,
+   "lng": 135.7543420302091,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（有）ＶＳＣＡＰＥ",
    "addr": "奈良市大和田町４８３－１",
    "biz": "建築・土木工事、エクステリア工事",
    "hp": "https://vscape.co.jp/",
-   "dist_km": 1.96,
+   "dist_km": 1.98,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.662813818013426,
-   "lng": 135.7497955108229
+   "lat": 34.663027909006715,
+   "lng": 135.74995375541144,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "メンフィスホーム（株）",
    "addr": "奈良市学園南１－２－１４",
    "biz": "注文住宅の建築、不動産仲介",
    "hp": "https://www.memphis-home.co.jp/",
-   "dist_km": 1.96,
+   "dist_km": 2.16,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.69325802490565,
-   "lng": 135.75321908804258
+   "lat": 34.69581518828003,
+   "lng": 135.7540744299652,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（株）リフォームトラスト",
    "addr": "奈良市学園南３－１３－６－１",
    "biz": "住宅リフォーム工事",
    "hp": "－",
-   "dist_km": 1.96,
+   "dist_km": 2.0,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.69344519463016,
-   "lng": 135.7529286515924
+   "lat": 34.692627804710604,
+   "lng": 135.7502322473139,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "土地家屋調査士寺西隆司事務所",
    "addr": "奈良市菅原東二丁目28番18号",
    "biz": "土地家屋調査士業務(土地・建物の登記測量調査)",
    "hp": "－",
-   "dist_km": 1.99,
+   "dist_km": 2.0,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.687843,
-   "lng": 135.780352
+   "lat": 34.68783931871726,
+   "lng": 135.78041038400707,
+   "geo_method": "exact(kanji-chome)"
   },
   {
    "name": "株式会社エース（伊藤英明）",
@@ -1124,18 +1213,20 @@
    "category": "中小企業・工場",
    "src": "",
    "lat": 34.680356,
-   "lng": 135.785442
+   "lng": 135.785442,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "奥畑電気店",
    "addr": "奈良市尼辻中町１０－１",
    "biz": "電気工事、家電販売・修理",
    "hp": "－",
-   "dist_km": 2.13,
+   "dist_km": 2.14,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.680426254057274,
-   "lng": 135.785674397937
+   "lat": 34.68039112702864,
+   "lng": 135.7855581989685,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "福田不動産鑑定",
@@ -1145,8 +1236,9 @@
    "dist_km": 2.24,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.687144,
-   "lng": 135.740866
+   "lat": 34.687626,
+   "lng": 135.741118,
+   "geo_method": "precise-geocodejp-unverified"
   },
   {
    "name": "清田軌道工業株式会社",
@@ -1157,7 +1249,8 @@
    "category": "中小企業・工場",
    "src": "",
    "lat": 34.685475,
-   "lng": 135.785544
+   "lng": 135.785544,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "全日本コンサルタント株式会社",
@@ -1167,63 +1260,69 @@
    "dist_km": 2.29,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.68515257350358,
-   "lng": 135.78582595366012
+   "lat": 34.685313786751784,
+   "lng": 135.78568497683005,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "浅野造園",
    "addr": "奈良市学園中３－１３５８－２アゼリオ学園前Ｃ－２０３",
    "biz": "造園工事",
    "hp": "－",
-   "dist_km": 2.42,
+   "dist_km": 2.29,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.69407339999999,
-   "lng": 135.7450202
+   "lat": 34.692933,
+   "lng": 135.745656,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "株式会社谷垣工業所",
    "addr": "奈良市三碓６丁目８番５４号",
    "biz": "水処理薬剤(高分子凝集剤・活性炭・次亜塩素酸ソーダ・塩酸・硫酸・ポリ硫酸第二鉄・尿素水等)の販売",
    "hp": "https://tanigakikougyousho.com/",
-   "dist_km": 2.47,
+   "dist_km": 2.28,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.68665371428571,
-   "lng": 135.73768414285715
+   "lat": 34.682562,
+   "lng": 135.738255,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（株）フクカワ企業",
    "addr": "奈良市三碓６－６－１３",
    "biz": "賃貸住宅・マンション管理、不動産仲介、宅地分譲",
    "hp": "https://fukukawa-group.com/",
-   "dist_km": 2.47,
+   "dist_km": 2.34,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.686411610459224,
-   "lng": 135.73751592517857
+   "lat": 34.682034,
+   "lng": 135.737439,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "（株）北条工務店",
    "addr": "奈良市三碓２－４－１７",
    "biz": "注文住宅の設計・施工(一級建築士事務所)",
    "hp": "https://www.hojoh.co.jp/",
-   "dist_km": 2.47,
+   "dist_km": 2.66,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.68653219999032,
-   "lng": 135.7378761344566
+   "lat": 34.688871,
+   "lng": 135.736694,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "松本（金属加工業）",
    "addr": "奈良市三碓7丁目2-27",
    "biz": "金属加工業",
    "hp": "－",
-   "dist_km": 2.47,
+   "dist_km": 2.11,
    "category": "中小企業・工場",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68711469965723,
-   "lng": 135.73738261470777
+   "lat": 34.682908,
+   "lng": 135.74029,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "左野工業株式会社",
@@ -1234,29 +1333,32 @@
    "category": "中小企業・工場",
    "src": "",
    "lat": 34.666145,
-   "lng": 135.785817
+   "lng": 135.785817,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "株式会社佑栄建設",
    "addr": "奈良市六条町172番地の2",
    "biz": "土木工事業（とび・土工、石、鋼構造物、舗装、しゅんせつ、塗装、水道施設、解体工事等）",
    "hp": "https://yuei-kensetsu.jp/",
-   "dist_km": 2.49,
+   "dist_km": 2.48,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66615197871683,
-   "lng": 135.78542125736874
+   "lat": 34.66614848935842,
+   "lng": 135.78561912868437,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "カサブランカ",
    "addr": "奈良市六条町２５－２",
    "biz": "土木工事業（とび・土工、石、鋼構造物、舗装、しゅんせつ、塗装、造園、水道施設工事等）",
    "hp": "－",
-   "dist_km": 2.49,
+   "dist_km": 2.47,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66660074235178,
-   "lng": 135.78554622093043
+   "lat": 34.66637287117589,
+   "lng": 135.78568161046522,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "（株）ＫＡＴＡＮＡ",
@@ -1266,19 +1368,21 @@
    "dist_km": 2.49,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66623382687406,
-   "lng": 135.78584875907995
+   "lat": 34.66618941343703,
+   "lng": 135.78583287953998,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "（有）藤電興業",
    "addr": "奈良市六条町２５３－６",
    "biz": "電気工事業（発電設備・送配電線・引込線・変電設備・照明設備工事等）",
    "hp": "－",
-   "dist_km": 2.49,
+   "dist_km": 2.51,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.66590959271339,
-   "lng": 135.78605447588822
+   "lat": 34.666027296356695,
+   "lng": 135.78593573794413,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "奈良化工",
@@ -1288,30 +1392,33 @@
    "dist_km": 2.49,
    "category": "中小企業・工場",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66648001589395,
-   "lng": 135.78605804904507
+   "lat": 34.66631250794698,
+   "lng": 135.78593752452255,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "スカイファクトリー",
    "addr": "奈良市帝塚山南５ー６ー１９",
    "biz": "ドローンによる建物等の外観調査・赤外線調査、野生生物の個体数調査",
    "hp": "https://skyfactory-d.com/",
-   "dist_km": 2.54,
+   "dist_km": 2.53,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.68011779999999,
-   "lng": 135.7348248
+   "lat": 34.683385,
+   "lng": 135.735586,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "（株）オネスト",
    "addr": "奈良市学園北２－７－２－２",
    "biz": "土木工事業（とび・土工、舗装、水道施設、鋼構造物、石、しゅんせつ工事等）",
    "hp": "－",
-   "dist_km": 2.55,
+   "dist_km": 2.48,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.698732,
-   "lng": 135.7513965
+   "lat": 34.698724,
+   "lng": 135.753529,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "株式会社ダンデライオン",
@@ -1322,40 +1429,44 @@
    "category": "中小企業・工場",
    "src": "",
    "lat": 34.69874,
-   "lng": 135.749264
+   "lng": 135.749264,
+   "geo_method": "exact(kanji-chome)"
   },
   {
    "name": "スポーツクラブＮＡＳ株式会社",
    "addr": "奈良市学園北一丁目２番１１号",
    "biz": "スポーツクラブの運営（ジム・スイム・スタジオ）、各種スクール・講習会の企画運営、施設の場所貸し、体育用品の販売",
    "hp": "https://www.nas-club.co.jp/",
-   "dist_km": 2.64,
+   "dist_km": 2.63,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.69874133337096,
-   "lng": 135.74965976693326
+   "lat": 34.69874066668548,
+   "lng": 135.74946188346664,
+   "geo_method": "exact(kanji-chome)"
   },
   {
    "name": "（株）ＡＲＣＯ",
    "addr": "大和郡山市城町６９１ー１",
    "biz": "土木・建築工事業（ビル管理業も兼業）",
    "hp": "－",
-   "dist_km": 2.64,
+   "dist_km": 2.9,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.65392,
-   "lng": 135.762463
+   "lat": 34.651601,
+   "lng": 135.761891,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "上田敷島園",
    "addr": "大和郡山市城町２１４",
    "biz": "造園業（植木職・庭園工事）",
    "hp": "－",
-   "dist_km": 2.64,
+   "dist_km": 2.47,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.65357242406664,
-   "lng": 135.7623312589215
+   "lat": 34.655564,
+   "lng": 135.759177,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "（株）倭仮設",
@@ -1365,19 +1476,21 @@
    "dist_km": 2.64,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.65422646506807,
-   "lng": 135.76250380596147
+   "lat": 34.65392,
+   "lng": 135.762463,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "（株）Ｌｏｈａｓｐａｃｅ",
    "addr": "大和郡山市城町１６８１－５９",
    "biz": "建設関連工事業",
    "hp": "－",
-   "dist_km": 2.64,
+   "dist_km": 2.34,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.65413367956891,
-   "lng": 135.76219420361255
+   "lat": 34.657313,
+   "lng": 135.769075,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "中田秀建設株式会社",
@@ -1387,8 +1500,9 @@
    "dist_km": 2.66,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.688871,
-   "lng": 135.736694
+   "lat": 34.68887963155803,
+   "lng": 135.73671792049092,
+   "geo_method": "exact(kanji-chome)"
   },
   {
    "name": "原田建設工業株式会社",
@@ -1399,7 +1513,8 @@
    "category": "中小企業・工場",
    "src": "",
    "lat": 34.699938,
-   "lng": 135.774162
+   "lng": 135.774162,
+   "geo_method": "exact(kanji-chome)"
   },
   {
    "name": "聖進建設",
@@ -1409,30 +1524,33 @@
    "dist_km": 2.7,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.69974291595693,
-   "lng": 135.77471899877003
+   "lat": 34.69984045797847,
+   "lng": 135.774440499385,
+   "geo_method": "exact(kanji-chome)"
   },
   {
    "name": "（株）杉山工業",
    "addr": "奈良市秋篠三和町１－３９６－５１",
    "biz": "土木工事業（土木一式・推進工事等）",
    "hp": "－",
-   "dist_km": 2.77,
+   "dist_km": 2.84,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.7000695,
-   "lng": 135.775531
+   "lat": 34.700201,
+   "lng": 135.7769,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "Ｍｉｘ（株）",
    "addr": "奈良市秋篠三和町１－１－１８",
    "biz": "建設関連工事業",
    "hp": "－",
-   "dist_km": 2.77,
+   "dist_km": 2.85,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.70023658803182,
-   "lng": 135.77593498900768
+   "lat": 34.700284544015915,
+   "lng": 135.77710199450385,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "つくる",
@@ -1442,8 +1560,9 @@
    "dist_km": 2.81,
    "category": "中小企業・工場",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.6957325,
-   "lng": 135.7844035
+   "lat": 34.695066,
+   "lng": 135.784686,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "株式会社大阪水道工業会研究所",
@@ -1454,7 +1573,8 @@
    "category": "中小企業・工場",
    "src": "",
    "lat": 34.693801,
-   "lng": 135.738582
+   "lng": 135.738582,
+   "geo_method": "exact(kanji-chome)"
   },
   {
    "name": "大浦貴金属工業株式会社",
@@ -1465,18 +1585,20 @@
    "category": "中小企業・工場",
    "src": "Googleマップ（業種キーワード検索）",
    "lat": 34.669349,
-   "lng": 135.791534
+   "lng": 135.791534,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "合名会社飛鳥井絹麻工場",
    "addr": "奈良市二条町2丁目4-14",
    "biz": "繊維製品製造業（絹・麻製品の製造、老舗）",
    "hp": "－",
-   "dist_km": 2.82,
+   "dist_km": 2.91,
    "category": "中小企業・工場",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.69223833333333,
-   "lng": 135.787825
+   "lat": 34.692668,
+   "lng": 135.788434,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "オリジナル設計株式会社",
@@ -1487,7 +1609,8 @@
    "category": "中小企業・工場",
    "src": "",
    "lat": 34.683013,
-   "lng": 135.731194
+   "lng": 135.731194,
+   "geo_method": "exact(kanji-chome)"
   },
   {
    "name": "（有）ハーネスト",
@@ -1498,7 +1621,8 @@
    "category": "中小企業・工場",
    "src": "",
    "lat": 34.679862,
-   "lng": 135.730181
+   "lng": 135.730181,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "株式会社島田組",
@@ -1509,29 +1633,32 @@
    "category": "中小企業・工場",
    "src": "",
    "lat": 34.700086,
-   "lng": 135.780328
+   "lng": 135.780328,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "株式会社タカギ",
    "addr": "奈良市秋篠新町２７２ー１",
    "biz": "文具・OA機器・衛生用品等のオフィス用品販売",
    "hp": "－",
-   "dist_km": 2.99,
+   "dist_km": 3.0,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.7000255897877,
-   "lng": 135.78086336562967
+   "lat": 34.70005579489385,
+   "lng": 135.78059568281483,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "（株）拓都工務",
    "addr": "奈良市秋篠新町２６３－１－１０５",
    "biz": "建築工事業（総合工務店）",
    "hp": "－",
-   "dist_km": 2.99,
+   "dist_km": 2.98,
    "category": "中小企業・工場",
    "src": "",
-   "lat": 34.70031337740283,
-   "lng": 135.77984119957227
+   "lat": 34.70019968870141,
+   "lng": 135.78008459978614,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "ローソン奈良赤膚町店",
@@ -1542,29 +1669,32 @@
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
    "lat": 34.673992,
-   "lng": 135.762921
+   "lng": 135.762921,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "珈琲羅房",
    "addr": "奈良市五条畑1丁目35-14",
    "biz": "カフェ・喫茶店（コーヒー専門）",
    "hp": "－",
-   "dist_km": 0.41,
+   "dist_km": 0.42,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.6781215,
-   "lng": 135.76683250000002
+   "lat": 34.677253,
+   "lng": 135.766963,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "Ribbon Flora",
    "addr": "奈良市五条畑1丁目25-8",
    "biz": "花屋（オーダーメイドのウェディングフラワー専門サロン）",
    "hp": "http://ribbonflora.com/",
-   "dist_km": 0.41,
+   "dist_km": 0.7,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67851070819929,
-   "lng": 135.76717437490368
+   "lat": 34.675555,
+   "lng": 135.769593,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "大倭安宿苑特別養護老人ホーム・長曽根寮",
@@ -1574,52 +1704,57 @@
    "dist_km": 0.57,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.681288794141,
-   "lng": 135.75808780196323
+   "lat": 34.6813018970705,
+   "lng": 135.75808890098162,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "エスティームライフ学園前",
    "addr": "奈良市大倭町1-35",
    "biz": "介護付き有料老人ホーム（大阪ガス系アクティブライフ運営、1993年開設の奈良県内第一号施設）",
    "hp": "https://www.activelife.co.jp/gakuen/",
-   "dist_km": 0.57,
+   "dist_km": 0.55,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68085592661611,
-   "lng": 135.75801276015383
+   "lat": 34.68108546330806,
+   "lng": 135.75805138007692,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "ケアハウス茂毛蕗園",
    "addr": "奈良市大倭町4-36",
    "biz": "ケアハウス（軽費老人ホーム、社会福祉法人大倭安宿苑運営）",
    "hp": "https://www.asukaen.net/momohukien.html",
-   "dist_km": 0.57,
+   "dist_km": 0.55,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.6810592967167,
-   "lng": 135.75847751097507
+   "lat": 34.68118714835835,
+   "lng": 135.75828375548755,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "救護施設・須加宮寮",
    "addr": "奈良市大倭町3-1",
    "biz": "救護施設（生活保護法に基づく入所施設、社会福祉法人大倭安宿苑運営）",
    "hp": "https://www.asukaen.net/",
-   "dist_km": 0.57,
+   "dist_km": 0.56,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68146211845928,
-   "lng": 135.75840756235874
+   "lat": 34.68138855922964,
+   "lng": 135.75824878117936,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "社会福祉法人大倭安宿苑",
    "addr": "奈良市大倭町5-27",
    "biz": "社会福祉法人（高齢者福祉施設・障害者支援施設等を運営）",
    "hp": "https://www.asukaen.net/",
-   "dist_km": 0.57,
+   "dist_km": 0.59,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.681651514304654,
-   "lng": 135.7577717028717
+   "lat": 34.68148325715233,
+   "lng": 135.75793085143584,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "障害者支援施設 菅原園",
@@ -1629,162 +1764,177 @@
    "dist_km": 0.57,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68136673564956,
-   "lng": 135.75824786039112
+   "lat": 34.68134086782478,
+   "lng": 135.75816893019555,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "薬局セブンファーマシー中町店",
    "addr": "奈良市藤ノ木台4丁目6-6",
    "biz": "調剤薬局（地域チェーン「セブンファーマシー」）",
    "hp": "https://seven-ph.co.jp/",
-   "dist_km": 0.68,
+   "dist_km": 0.41,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.6787685073831,
-   "lng": 135.75530499051663
+   "lat": 34.67664698471522,
+   "lng": 135.75810007239468,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "あじさい薬局",
    "addr": "奈良市藤ノ木台3丁目20-2",
    "biz": "調剤薬局",
    "hp": "－",
-   "dist_km": 0.68,
+   "dist_km": 0.63,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.678694683612804,
-   "lng": 135.75519786084527
+   "lat": 34.677979,
+   "lng": 135.755583,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "八食堂",
    "addr": "奈良市五条西1丁目17",
    "biz": "飲食店（食堂）",
    "hp": "－",
-   "dist_km": 0.68,
+   "dist_km": 0.88,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.673815000000005,
-   "lng": 135.7681555
+   "lat": 34.673434,
+   "lng": 135.770612,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "日本料理京富",
    "addr": "奈良市藤ノ木台3丁目2-18",
    "biz": "日本料理店（京風懐石料理）",
    "hp": "－",
-   "dist_km": 0.68,
+   "dist_km": 0.61,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.678974947168754,
-   "lng": 135.75566393544227
+   "lat": 34.67813967691181,
+   "lng": 135.75581535618457,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "ゴムカフェ",
    "addr": "奈良市藤ノ木台3丁目20-3-2",
    "biz": "カフェ（週替わりランチが人気）",
    "hp": "－",
-   "dist_km": 0.68,
+   "dist_km": 0.63,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.678563712717526,
-   "lng": 135.75540132765238
+   "lat": 34.67804898766911,
+   "lng": 135.75552923825126,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "Cherimo",
    "addr": "奈良市藤ノ木台4丁目3-1",
    "biz": "美容室（カット・カラー・着付け・メイクも対応）",
    "hp": "https://cherimo.net/",
-   "dist_km": 0.68,
+   "dist_km": 0.41,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67889757458158,
-   "lng": 135.75492829912997
+   "lat": 34.676804301591254,
+   "lng": 135.75801806259352,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "hair & wellness ICHIYA",
    "addr": "奈良市藤ノ木台4丁目6-24 1F",
    "biz": "美容室（白髪染め・くせ毛改善が専門）",
    "hp": "https://hair-wellness-ichiya.business.site/",
-   "dist_km": 0.68,
+   "dist_km": 0.39,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67843655444072,
-   "lng": 135.75512706068787
+   "lat": 34.676766732794796,
+   "lng": 135.75830252553493,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "学園前DRESSCODE",
    "addr": "奈良市藤ノ木台3丁目2-18",
    "biz": "美容室（スタイリスト1名、ストレート矯正・ダメージケア専門）",
    "hp": "https://dresscode-hair.com/",
-   "dist_km": 0.68,
+   "dist_km": 0.63,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67905407919266,
-   "lng": 135.75492509997807
+   "lat": 34.67797671300632,
+   "lng": 135.75558698159986,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "ミルキー",
    "addr": "奈良市藤ノ木台3丁目3-6",
    "biz": "ペットショップ（トリミングサロン）",
    "hp": "－",
-   "dist_km": 0.68,
+   "dist_km": 0.63,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67877185018007,
-   "lng": 135.75508019968294
+   "lat": 34.677949706955424,
+   "lng": 135.75553416497772,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "せいかクリニック",
    "addr": "奈良市藤ノ木台3丁目2-12",
    "biz": "クリニック（内科・脳神経内科・整形外科）",
    "hp": "https://www.seika-clinic.com/",
-   "dist_km": 0.68,
+   "dist_km": 0.63,
    "category": "病院",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.679022100117024,
-   "lng": 135.75474316640972
+   "lat": 34.678110268488176,
+   "lng": 135.75557862708848,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "長谷整形外科クリニック",
    "addr": "奈良市藤ノ木台4丁目6-4",
    "biz": "整形外科（リハビリテーション科・リウマチ科併設）",
    "hp": "https://www.hase-seikei.com/",
-   "dist_km": 0.68,
+   "dist_km": 0.42,
    "category": "病院",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67839481823201,
-   "lng": 135.7550879864819
+   "lat": 34.67659727591866,
+   "lng": 135.75803490895103,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "せいかクリニック通所リハビリテーション慈友苑",
    "addr": "奈良市藤ノ木台3丁目15-1",
    "biz": "デイケア（通所リハビリテーション、せいかクリニック運営）",
    "hp": "https://www.seika-clinic.com/",
-   "dist_km": 0.68,
+   "dist_km": 0.61,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.678860534866836,
-   "lng": 135.75538647965868
+   "lat": 34.67792918059711,
+   "lng": 135.7557008696387,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "花と緑の百花園",
    "addr": "奈良市六条緑町3丁目9-14",
    "biz": "花屋",
    "hp": "－",
-   "dist_km": 0.76,
+   "dist_km": 0.92,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.670789619070746,
-   "lng": 135.76310250875912
+   "lat": 34.66969464286871,
+   "lng": 135.76522825437954,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "和田内科外科医院",
    "addr": "奈良市六条緑町3丁目8-48",
    "biz": "医療法人（内科・外科医院）",
    "hp": "－",
-   "dist_km": 0.76,
+   "dist_km": 0.92,
    "category": "病院",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.6708193613899,
-   "lng": 135.76335056523985
+   "lat": 34.669709514028284,
+   "lng": 135.76535228261992,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "ネクストステージ",
@@ -1795,7 +1945,8 @@
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
    "lat": 34.686501,
-   "lng": 135.755489
+   "lng": 135.755489,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "アルク奈良宝来",
@@ -1805,272 +1956,297 @@
    "dist_km": 1.17,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.686514743790866,
-   "lng": 135.75565078039475
+   "lat": 34.68650787189544,
+   "lng": 135.75556989019736,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "デイサービス REPA HORAI",
    "addr": "奈良市宝来町928-1",
    "biz": "デイサービス（通所介護、趣味活動重視のプログラム）",
    "hp": "https://tk-repa.com/",
-   "dist_km": 1.17,
+   "dist_km": 1.18,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68658119369207,
-   "lng": 135.7554546577963
+   "lat": 34.686541096846035,
+   "lng": 135.75547182889815,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "かさね宝来",
    "addr": "奈良市宝来町1110-1",
    "biz": "住宅型有料老人ホーム（かさね株式会社運営）",
    "hp": "https://www.kasane.co.jp/",
-   "dist_km": 1.17,
+   "dist_km": 1.15,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.686138837525554,
-   "lng": 135.75554754594256
+   "lat": 34.68631991876278,
+   "lng": 135.7555182729713,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "ファミリーマート奈良六条西店",
    "addr": "奈良市六条西5丁目1-36",
    "biz": "コンビニエンスストア（ファミリーマート）",
    "hp": "https://www.family.co.jp/",
-   "dist_km": 1.18,
+   "dist_km": 1.45,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.667741965124215,
-   "lng": 135.76812246329388
+   "lat": 34.66511221301454,
+   "lng": 135.76674153558335,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "ドラッグストア木のうた西の京店",
    "addr": "奈良市六条西1丁目1-50",
    "biz": "ドラッグストア（調剤薬局併設、自然食品・自然化粧品も扱う）",
    "hp": "https://kinouta.co.jp/",
-   "dist_km": 1.18,
+   "dist_km": 0.99,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.667958104809905,
-   "lng": 135.76767375652662
+   "lat": 34.67179138349238,
+   "lng": 135.77058636862523,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "コッペパン専門店 ManaKoma",
    "addr": "奈良市六条西1丁目1-47",
    "biz": "コッペパン専門店（ベーカリー）",
    "hp": "https://manakoma.com/",
-   "dist_km": 1.18,
+   "dist_km": 1.03,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66846207729894,
-   "lng": 135.7678674602633
+   "lat": 34.67146565478624,
+   "lng": 135.7708278981961,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "Sorry Sometimes Store",
    "addr": "奈良市六条西4丁目4-20",
    "biz": "衣料品店",
    "hp": "－",
-   "dist_km": 1.18,
+   "dist_km": 1.47,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66828311077886,
-   "lng": 135.76801034130185
+   "lat": 34.6663585966905,
+   "lng": 135.77082476309977,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "デイホームかなで六条",
    "addr": "奈良市六条西3丁目14-4",
    "biz": "デイサービス（要支援者向け・生活機能向上支援の通所介護）",
    "hp": "https://kanade-nara.jp/",
-   "dist_km": 1.18,
+   "dist_km": 1.21,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.667832828999636,
-   "lng": 135.7685882669036
+   "lat": 34.668172447020865,
+   "lng": 135.76884660950662,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "グループホーム メビウスまほろば",
    "addr": "奈良市六条西4丁目6-20",
    "biz": "認知症高齢者グループホーム（医療法人康仁会・西の京病院グループ運営）",
    "hp": "https://www.nishinokyo.or.jp/kaigo/mahoroba/index.html",
-   "dist_km": 1.18,
+   "dist_km": 1.5,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66781209648594,
-   "lng": 135.76801927882877
+   "lat": 34.66618753026551,
+   "lng": 135.77100944454568,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "デイサービス八重桜西奈良",
    "addr": "奈良市平松1丁目29-9",
    "biz": "デイサービス（要支援者向け通所介護、株式会社八重桜運営）",
    "hp": "https://www.yaezakura.co.jp/",
-   "dist_km": 1.19,
+   "dist_km": 1.36,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.6766912,
-   "lng": 135.7754224
+   "lat": 34.678834,
+   "lng": 135.777171,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "スーパーセンタートライアル宝来店",
    "addr": "奈良市宝来3丁目11-9",
    "biz": "ディスカウントストア・スーパー（トライアル）",
    "hp": "https://www.trial-net.co.jp/",
-   "dist_km": 1.2,
+   "dist_km": 1.29,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68178739377468,
-   "lng": 135.77440414974342
+   "lat": 34.682149096887336,
+   "lng": 135.77547297487172,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "サンディ奈良宝来店",
    "addr": "奈良市宝来4丁目2-47",
    "biz": "スーパーマーケット（ディスカウントスーパー サンディ）",
    "hp": "https://www.sundi.co.jp/",
-   "dist_km": 1.2,
+   "dist_km": 0.99,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.682306084225345,
-   "lng": 135.77432058066591
+   "lat": 34.682484,
+   "lng": 135.771442,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "いそかわ尼ヶ辻店",
    "addr": "奈良市宝来1丁目8-18",
    "biz": "スーパーマーケット（奈良の地場スーパー いそかわ）",
    "hp": "http://www.ik-isokawa.co.jp/",
-   "dist_km": 1.2,
+   "dist_km": 1.79,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68242661386556,
-   "lng": 135.7741139696039
+   "lat": 34.68247,
+   "lng": 135.781129,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "ローソン奈良宝来町店",
    "addr": "奈良市宝来4丁目2-55",
    "biz": "コンビニエンスストア（ローソン）",
    "hp": "https://www.lawson.co.jp/",
-   "dist_km": 1.2,
+   "dist_km": 0.99,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68204451446222,
-   "lng": 135.77479797384024
+   "lat": 34.68247110259717,
+   "lng": 135.7714513276032,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "ファミリーマート奈良宝来店",
    "addr": "奈良市宝来3丁目1-2",
    "biz": "コンビニエンスストア（ファミリーマート）",
    "hp": "https://www.family.co.jp/",
-   "dist_km": 1.2,
+   "dist_km": 1.29,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.681753786182774,
-   "lng": 135.77415002268248
+   "lat": 34.682329609557115,
+   "lng": 135.77532649137441,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "HAIR SALON IWASAKI 奈良宝来店",
    "addr": "奈良市宝来4丁目2-47",
    "biz": "美容室（低価格カットチェーン IWASAKI、株式会社ハクブン運営）",
    "hp": "https://hkbn.co.jp/iwasaki/",
-   "dist_km": 1.2,
+   "dist_km": 0.98,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68241510109922,
-   "lng": 135.77436005405283
+   "lat": 34.68252652795879,
+   "lng": 135.77131300303049,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "ノムラクリーニング いそかわ宝来店",
    "addr": "奈良市宝来1丁目8-18",
    "biz": "クリーニング店（ノムラクリーニング）",
    "hp": "https://nc-nomura.com/",
-   "dist_km": 1.2,
+   "dist_km": 1.8,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.682105711595256,
-   "lng": 135.77380251371704
+   "lat": 34.68233819898031,
+   "lng": 135.78122363140176,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "にしむら歯科",
    "addr": "奈良市宝来3丁目16-10 ドルフ3",
    "biz": "歯科医院（一般歯科・小児歯科）",
    "hp": "－",
-   "dist_km": 1.2,
+   "dist_km": 1.29,
    "category": "病院",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.682891067656605,
-   "lng": 135.77427067385403
+   "lat": 34.682199748585774,
+   "lng": 135.7754152883088,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "リールデイサービス宝来",
    "addr": "奈良市宝来4丁目4-12",
    "biz": "デイサービス（株式会社リールステージ運営）",
    "hp": "https://rirestage.co.jp/",
-   "dist_km": 1.2,
+   "dist_km": 0.96,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.682104581888844,
-   "lng": 135.7745108951215
+   "lat": 34.68243646110683,
+   "lng": 135.7711570419363,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "リールホーム宝来アネックス",
    "addr": "奈良市宝来4丁目4-12",
    "biz": "住宅型有料老人ホーム（株式会社リールステージ運営）",
    "hp": "https://rirestage.co.jp/",
-   "dist_km": 1.2,
+   "dist_km": 0.99,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.682816807739584,
-   "lng": 135.77444171337058
+   "lat": 34.68248193459006,
+   "lng": 135.77148784061967,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "食彩工房幹屋",
    "addr": "奈良市疋田町2丁目1-24",
    "biz": "居酒屋（地魚・地酒中心の小規模居酒屋、金土日営業）",
    "hp": "－",
-   "dist_km": 1.25,
+   "dist_km": 1.59,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68831860689841,
-   "lng": 135.758550438695
+   "lat": 34.69119801848892,
+   "lng": 135.76804074751635,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "いぬいクリニック",
    "addr": "奈良市疋田町2丁目1-1-5",
    "biz": "クリニック（内科・泌尿器科、在宅診療・デイケアあり）",
    "hp": "https://inui-urosurgery-clinic.jp/",
-   "dist_km": 1.25,
+   "dist_km": 1.6,
    "category": "病院",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68833232687317,
-   "lng": 135.7584296370757
+   "lat": 34.69121706707674,
+   "lng": 135.7681944621735,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "住宅型有料老人ホーム 福宝",
    "addr": "奈良市疋田町1丁目3-19",
    "biz": "住宅型有料老人ホーム（訪問介護・訪問看護と連携、2025年11月開設）",
    "hp": "－",
-   "dist_km": 1.25,
+   "dist_km": 1.45,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68838885646573,
-   "lng": 135.75848170929552
+   "lat": 34.688754516310674,
+   "lng": 135.77072359764836,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "ダイエー富雄南店",
    "addr": "奈良市石木町100-1",
    "biz": "スーパーマーケット（ダイエー）",
    "hp": "https://www.daiei.co.jp/",
-   "dist_km": 1.42,
+   "dist_km": 1.45,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66446439640034,
-   "lng": 135.7601127707035
+   "lat": 34.66472619820017,
+   "lng": 135.76009688535174,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "生鮮＆業務スーパー ボトルワールドOK 富雄中町IC店",
    "addr": "奈良市石木町77",
    "biz": "スーパーマーケット（業務用食品・酒類 ボトルワールドOK）",
    "hp": "https://bw-ok.co.jp/",
-   "dist_km": 1.42,
+   "dist_km": 1.44,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.664690778572705,
-   "lng": 135.76011164592302
+   "lat": 34.66483938928635,
+   "lng": 135.76009632296152,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "理容サービス イオンタウン富雄南店",
@@ -2080,19 +2256,21 @@
    "dist_km": 1.42,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66495707182484,
-   "lng": 135.76009278046166
+   "lat": 34.66497253591242,
+   "lng": 135.76008689023084,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "ノムラクリーニング イオンタウン富雄南店",
    "addr": "奈良市石木町100-1",
    "biz": "クリーニング店（ノムラクリーニング）",
    "hp": "https://nc-nomura.com/",
-   "dist_km": 1.42,
+   "dist_km": 1.41,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66521284434856,
-   "lng": 135.76013945602256
+   "lat": 34.665100422174284,
+   "lng": 135.76011022801129,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "コインランドリー イオンタウン富雄南店",
@@ -2102,19 +2280,21 @@
    "dist_km": 1.42,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66499763913143,
-   "lng": 135.7603827971285
+   "lat": 34.66499281956571,
+   "lng": 135.76023189856426,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "ペットショップCoo&RIKU 奈良富雄南店",
    "addr": "奈良市石木町77",
    "biz": "ペットショップ（Coo&RIKU、子犬・子猫販売、トリミング・ペットホテル併設）",
    "hp": "https://www.pet-coo.com/",
-   "dist_km": 1.42,
+   "dist_km": 1.44,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66474839130182,
-   "lng": 135.76025630391044
+   "lat": 34.66486819565091,
+   "lng": 135.76016865195524,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "マルエスペット富雄店",
@@ -2124,30 +2304,33 @@
    "dist_km": 1.42,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66496398017064,
-   "lng": 135.7601171895136
+   "lat": 34.664975990085324,
+   "lng": 135.7600990947568,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "ファッションセンターしまむら イオンタウン富雄南店",
    "addr": "奈良市石木町100-1",
    "biz": "衣料品店（ファッションセンターしまむら）",
    "hp": "https://www.shimamura.gr.jp/shimamura/",
-   "dist_km": 1.42,
+   "dist_km": 1.41,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66519102789671,
-   "lng": 135.75999503779926
+   "lat": 34.66508951394835,
+   "lng": 135.76003801889965,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "AOKI イオンタウン富雄南",
    "addr": "奈良市石木町100-1",
    "biz": "衣料品店（紳士服・スーツのAOKI）",
    "hp": "https://www.aoki-style.com/",
-   "dist_km": 1.42,
+   "dist_km": 1.41,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66527427796907,
-   "lng": 135.75989176363376
+   "lat": 34.665131138984535,
+   "lng": 135.7599863818169,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "DCM富雄南店",
@@ -2157,30 +2340,33 @@
    "dist_km": 1.42,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66500682178251,
-   "lng": 135.7600364357865
+   "lat": 34.66499741089125,
+   "lng": 135.76005871789326,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "Can★Do イオンタウン富雄南店",
    "addr": "奈良市石木町100-1",
    "biz": "100円ショップ（Can★Do）",
    "hp": "https://www.cando-web.co.jp/",
-   "dist_km": 1.42,
+   "dist_km": 1.44,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66467185248057,
-   "lng": 135.7599169667756
+   "lat": 34.66482992624029,
+   "lng": 135.7599989833878,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "イオンタウン富雄南",
    "addr": "奈良市石木町100-1",
    "biz": "ショッピングモール（イオンタウン）",
    "hp": "https://www.aeontown.co.jp/",
-   "dist_km": 1.42,
+   "dist_km": 1.43,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66483860347643,
-   "lng": 135.76030291900656
+   "lat": 34.66491330173822,
+   "lng": 135.7601919595033,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "ジョーシン富雄南イオンタウン店",
@@ -2190,19 +2376,21 @@
    "dist_km": 1.42,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66498100018842,
-   "lng": 135.76027368138423
+   "lat": 34.66498450009421,
+   "lng": 135.7601773406921,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "奈良セントラル病院",
    "addr": "奈良市石木町800",
    "biz": "病院（医療法人仁誠会、内科・外科・整形外科・リハビリテーション科、回復期病棟中心のケアミックス型）",
    "hp": "https://naracentral.com/",
-   "dist_km": 1.42,
+   "dist_km": 1.43,
    "category": "病院",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.664812042954104,
-   "lng": 135.7605094313702
+   "lat": 34.66490002147705,
+   "lng": 135.7602952156851,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "かず歯科口腔外科クリニック",
@@ -2212,30 +2400,33 @@
    "dist_km": 1.42,
    "category": "病院",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66509174968271,
-   "lng": 135.76015055171806
+   "lat": 34.665039874841355,
+   "lng": 135.76011577585905,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "にこにこ歯科",
    "addr": "奈良市石木町100-1 イオンタウン富雄南",
    "biz": "歯科医院（一般歯科・矯正歯科・小児歯科・歯科口腔外科）",
    "hp": "http://www.2525dental.jp/",
-   "dist_km": 1.42,
+   "dist_km": 1.43,
    "category": "病院",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66486269691104,
-   "lng": 135.76027473036893
+   "lat": 34.66492534845552,
+   "lng": 135.76017786518446,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "スーパーセンターオークワ富雄中町店",
    "addr": "奈良市中町4876",
    "biz": "スーパーマーケット（オークワ）",
    "hp": "https://www.okuwa.net/",
-   "dist_km": 1.44,
+   "dist_km": 0.8,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67272374970948,
-   "lng": 135.74798659097925
+   "lat": 34.672529,
+   "lng": 135.756278,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "ファミリーマート奈良藤ノ木台店",
@@ -2245,63 +2436,69 @@
    "dist_km": 1.44,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.672712298000064,
-   "lng": 135.74788974690645
+   "lat": 34.673048,
+   "lng": 135.747687,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "ファミリーマート奈良中町店",
    "addr": "奈良市中町2571-3",
    "biz": "コンビニエンスストア（ファミリーマート）",
    "hp": "https://www.family.co.jp/",
-   "dist_km": 1.44,
+   "dist_km": 1.43,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.672654397753874,
-   "lng": 135.7476919334108
+   "lat": 34.67327506218665,
+   "lng": 135.74770903486825,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "スギ薬局学園前南店",
    "addr": "奈良市中町1番地87",
    "biz": "ドラッグストア（スギ薬局）",
    "hp": "https://www.sugi-net.jp/",
-   "dist_km": 1.44,
+   "dist_km": 1.32,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67275220438002,
-   "lng": 135.74782087330203
+   "lat": 34.686638,
+   "lng": 135.752967,
+   "geo_method": "precise-geocodejp-unverified"
   },
   {
    "name": "サン薬局中町店",
    "addr": "奈良市中町4842-1",
    "biz": "調剤薬局（サン薬局、株式会社関西メディコ運営の地域密着型かかりつけ薬局チェーン）",
    "hp": "https://kansaimedico.com/",
-   "dist_km": 1.44,
+   "dist_km": 0.91,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.673494037148025,
-   "lng": 135.74753631587276
+   "lat": 34.671876,
+   "lng": 135.755429,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "杵の音",
    "addr": "奈良市中町4856-5",
    "biz": "飲食店（奈良発祥の自家製「秋篠うどん」としゃぶしゃぶの店）",
    "hp": "https://akishinoudon.com/kinenone/",
-   "dist_km": 1.44,
+   "dist_km": 0.92,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67305634262888,
-   "lng": 135.74768839578923
+   "lat": 34.671519,
+   "lng": 135.755657,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "丼と飩",
    "addr": "奈良市中町4857-3",
    "biz": "飲食店（うどんと丼を組み合わせた専門店、カウンター食券制）",
    "hp": "https://akishinoudon.com/dontodon/",
-   "dist_km": 1.44,
+   "dist_km": 0.94,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67302166760328,
-   "lng": 135.74771912893635
+   "lat": 34.671563,
+   "lng": 135.755301,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "Very Berry Café",
@@ -2311,184 +2508,201 @@
    "dist_km": 1.44,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.672555063616265,
-   "lng": 135.74737824150762
+   "lat": 34.673143420214075,
+   "lng": 135.74765705612492,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "山のカフェ＆レストラン上高地あずさ珈琲 学園前店",
    "addr": "奈良市中町1-78",
    "biz": "カフェ・喫茶（山小屋風リゾートカフェ「上高地あずさ珈琲」、KRホールディングス系列）",
    "hp": "https://azusacoffee.food-kr.com/",
-   "dist_km": 1.44,
+   "dist_km": 1.09,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67341343682404,
-   "lng": 135.74737256501277
+   "lat": 34.68515,
+   "lng": 135.754741,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "ヘアメイク リープス",
    "addr": "奈良市中町247-22",
    "biz": "美容室（丁寧なカウンセリングとヘアドネーション対応）",
    "hp": "https://www.hairmake-leaps.com/",
-   "dist_km": 1.44,
+   "dist_km": 0.6,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67272598677014,
-   "lng": 135.7475666075712
+   "lat": 34.674527,
+   "lng": 135.757009,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "クリーニングルビー オークワ富雄中町店",
    "addr": "奈良市中町233-1",
    "biz": "クリーニング店（クリーニングルビー、宅配クリーニング「ルビ宅」対応）",
    "hp": "https://www.rby.jp/",
-   "dist_km": 1.44,
+   "dist_km": 0.74,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.673560873387665,
-   "lng": 135.74790131099957
+   "lat": 34.67297,
+   "lng": 135.756653,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "エー・ベーカリー",
    "addr": "奈良市中町483",
    "biz": "ベーカリー（パン・サンドイッチ・ケーキの独立系パン屋）",
    "hp": "－",
-   "dist_km": 1.44,
+   "dist_km": 0.84,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67299268420284,
-   "lng": 135.74738814682115
+   "lat": 34.672931,
+   "lng": 135.755226,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "エアダール",
    "addr": "奈良市中町2517-3",
    "biz": "ベーカリー（ドイツパン専門店、旧たたみ店舗をリノベーション）",
    "hp": "－",
-   "dist_km": 1.44,
+   "dist_km": 1.77,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.672991288878904,
-   "lng": 135.74780560823135
+   "lat": 34.675803,
+   "lng": 135.743142,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "エニシスベーカリー富雄中町店",
    "addr": "奈良市中町4876",
    "biz": "ベーカリー（無添加生地・国産小麦使用、エニシスベーカリー）",
    "hp": "https://enixis-plus.com/",
-   "dist_km": 1.44,
+   "dist_km": 0.8,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67357510413735,
-   "lng": 135.7477791924783
+   "lat": 34.67253245458956,
+   "lng": 135.75624575040223,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "ペットタクシーcocoタク奈良店",
    "addr": "奈良市中町5062-59",
    "biz": "ペット輸送サービス（動物病院・サロン等への送迎、24時間365日対応のフランチャイズ店）",
    "hp": "https://pet-coco-taxi-nara.com/",
-   "dist_km": 1.44,
+   "dist_km": 0.07,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67324712397148,
-   "lng": 135.74814405684074
+   "lat": 34.677735,
+   "lng": 135.761709,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "お好み焼・鉄板焼 きん太 奈良学園前店",
    "addr": "奈良市中町1-78",
    "biz": "飲食店（お好み焼き・鉄板焼きチェーン「きん太」）",
    "hp": "https://kinta.co.jp/",
-   "dist_km": 1.44,
+   "dist_km": 1.1,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67288515327851,
-   "lng": 135.74727669256276
+   "lat": 34.685263660313566,
+   "lng": 135.75479910278202,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "ダイソー スーパーセンターオークワ富雄中町店",
    "addr": "奈良市中町4876",
    "biz": "100円ショップ（ダイソー）",
    "hp": "https://www.daiso-sangyo.co.jp/",
-   "dist_km": 1.44,
+   "dist_km": 0.82,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.672952076116026,
-   "lng": 135.7474935709559
+   "lat": 34.67228354043664,
+   "lng": 135.75629793163083,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "Panasonic shop きたでんき",
    "addr": "奈良市中町5109-4",
    "biz": "電器店（パナソニック認定「街のでんきやさん」）",
    "hp": "－",
-   "dist_km": 1.44,
+   "dist_km": 0.32,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67355736936807,
-   "lng": 135.74772390658632
+   "lat": 34.67673044857256,
+   "lng": 135.76571810164467,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "宮武オート学園前",
    "addr": "奈良市中町4888-6",
    "biz": "自動車販売店（輸入車専門、株式会社ミヤタケ、近畿陸運局認証工場併設）",
    "hp": "－",
-   "dist_km": 1.44,
+   "dist_km": 0.69,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67313420458599,
-   "lng": 135.74745279982818
+   "lat": 34.672865,
+   "lng": 135.757618,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "オートサービスエムワン",
    "addr": "奈良市中町345-1",
    "biz": "自動車販売・整備店",
    "hp": "－",
-   "dist_km": 1.44,
+   "dist_km": 1.08,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67266289898887,
-   "lng": 135.74768835894406
+   "lat": 34.674933,
+   "lng": 135.751067,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "いけだクリニック",
    "addr": "奈良市中町4842-1",
    "biz": "クリニック（内科・皮膚科・泌尿器科）",
    "hp": "https://ikeda-clin.com/",
-   "dist_km": 1.44,
+   "dist_km": 0.9,
    "category": "病院",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67337153352617,
-   "lng": 135.74766030427708
+   "lat": 34.67184942877452,
+   "lng": 135.75548757424937,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "アクティブライフ中町倶楽部",
    "addr": "奈良市中町5014",
    "biz": "デイケアサービス（認知症対応型通所介護・訪問介護・ケアプラン、株式会社アクティブライフ運営、古民家を改装）",
    "hp": "https://activelife.co.jp/kyotaku/nakamati/",
-   "dist_km": 1.44,
+   "dist_km": 0.61,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67297369248696,
-   "lng": 135.7477443831116
+   "lat": 34.673798,
+   "lng": 135.757667,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "グループホームくわの木",
    "addr": "奈良市中町5142-16",
    "biz": "グループホーム（認知症対応型共同生活介護）",
    "hp": "－",
-   "dist_km": 1.44,
+   "dist_km": 0.34,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67337714153971,
-   "lng": 135.74810440470648
+   "lat": 34.676301,
+   "lng": 135.765768,
+   "geo_method": "precise-geocodejp-unverified"
   },
   {
    "name": "デイリーヤマザキ奈良菅原町店",
    "addr": "奈良市菅原町634-1",
    "biz": "コンビニエンスストア（デイリーヤマザキ）",
    "hp": "https://www.daily-yamazaki.co.jp/",
-   "dist_km": 1.51,
+   "dist_km": 1.49,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68638670508116,
-   "lng": 135.7745291867989
+   "lat": 34.68658985254058,
+   "lng": 135.77458759339945,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "セブンイレブン奈良菅原町店",
@@ -2498,448 +2712,489 @@
    "dist_km": 1.51,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.6868467914608,
-   "lng": 135.77462813069423
+   "lat": 34.6868198957304,
+   "lng": 135.7746370653471,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "マルエスペットはんな店",
    "addr": "奈良市菅原町634",
    "biz": "ペットショップ（犬・猫・熱帯魚等の販売、トリミング・ペットホテル併設）",
    "hp": "https://www.petmaruesu.com/",
-   "dist_km": 1.51,
+   "dist_km": 1.5,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68631212498256,
-   "lng": 135.77490640329705
+   "lat": 34.68655256249128,
+   "lng": 135.77477620164854,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "西脇医院",
    "addr": "奈良市菅原町506",
    "biz": "内科・小児科の医院（在宅診療対応）",
    "hp": "https://www.nara-nishiwaki-iin.com/",
-   "dist_km": 1.51,
+   "dist_km": 1.49,
    "category": "病院",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68634508709308,
-   "lng": 135.7745261706593
+   "lat": 34.68656904354654,
+   "lng": 135.77458608532964,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "ウエルシア奈良六条店",
    "addr": "奈良市六条2丁目18-5",
    "biz": "ドラッグストア（ウエルシア）",
    "hp": "https://www.welcia.co.jp/",
-   "dist_km": 1.59,
+   "dist_km": 1.34,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.668737927041036,
-   "lng": 135.77586724910253
+   "lat": 34.66995880310914,
+   "lng": 135.7736688969679,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "フローリストJune",
    "addr": "奈良市六条2丁目17-6の4",
    "biz": "花屋",
    "hp": "－",
-   "dist_km": 1.59,
+   "dist_km": 1.33,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.668656516984946,
-   "lng": 135.77571137825896
+   "lat": 34.670037525484865,
+   "lng": 135.77367219042128,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "奈良きらめき工房",
    "addr": "奈良市六条2丁目4-8",
    "biz": "こども書画教室・奈良一閑張工房",
    "hp": "https://blog.goo.ne.jp/narakirameki",
-   "dist_km": 1.59,
+   "dist_km": 1.32,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66862213284458,
-   "lng": 135.77564358180678
+   "lat": 34.66999048600978,
+   "lng": 135.77341054214864,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "酒楽市橋",
    "addr": "奈良市六条1丁目1-10",
    "biz": "海鮮居酒屋",
    "hp": "－",
-   "dist_km": 1.59,
+   "dist_km": 2.1,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66875388822051,
-   "lng": 135.77591339578328
+   "lat": 34.668839,
+   "lng": 135.782716,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "リムプロショップ",
    "addr": "奈良市六条1丁目1-2",
    "biz": "スポーツ用品店（バスケットボール専門）",
    "hp": "https://subsaku.com/puroshoprim/",
-   "dist_km": 1.59,
+   "dist_km": 1.85,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.668620805357236,
-   "lng": 135.77644029155232
+   "lat": 34.669489979920925,
+   "lng": 135.7800858134727,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "おおもりクリニック",
    "addr": "奈良市六条2丁目18-36",
    "biz": "内科・循環器内科・糖尿病内科",
    "hp": "https://ohmoriclinic.com/",
-   "dist_km": 1.59,
+   "dist_km": 1.34,
    "category": "病院",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66898604985083,
-   "lng": 135.7762505624534
+   "lat": 34.66994860166844,
+   "lng": 135.77373610108003,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "さんぽ歯科クリニック",
    "addr": "奈良市六条2丁目18-3 奈良六条医療モール3号",
    "biz": "歯科・小児歯科・歯科口腔外科・矯正歯科",
    "hp": "https://sanpo-shika.com/",
-   "dist_km": 1.59,
+   "dist_km": 1.33,
    "category": "病院",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66820580912312,
-   "lng": 135.77585767424128
+   "lat": 34.67006068998035,
+   "lng": 135.77364284805907,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "おがわ歯科クリニック",
    "addr": "奈良市六条2丁目3-20",
    "biz": "歯科・矯正歯科・小児歯科（インプラント対応）",
    "hp": "https://ogawa-kyousei.jp/",
-   "dist_km": 1.59,
+   "dist_km": 1.33,
    "category": "病院",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66875451542124,
-   "lng": 135.7759455017566
+   "lat": 34.67001060712812,
+   "lng": 135.7736122301672,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "ことのは内科クリニック",
    "addr": "奈良市六条2丁目18-3",
    "biz": "内科・消化器内科・リハビリテーション科",
    "hp": "https://kotonoha.nara.jp/",
-   "dist_km": 1.59,
+   "dist_km": 1.34,
    "category": "病院",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.6687709605989,
-   "lng": 135.77597303027918
+   "lat": 34.66997779682717,
+   "lng": 135.7737223475695,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "庄野整形外科",
    "addr": "奈良市六条2丁目19-8",
    "biz": "整形外科・リハビリテーション科",
    "hp": "https://www.shonoortho.com/",
-   "dist_km": 1.59,
+   "dist_km": 1.32,
    "category": "病院",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.668737109474066,
-   "lng": 135.776030586605
+   "lat": 34.670149829316564,
+   "lng": 135.77366716712888,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "ハッピーデイリハビリ館 西ノ京",
    "addr": "奈良市六条2丁目19-17",
    "biz": "リハビリ特化型デイサービス",
    "hp": "https://www.happy-service.co.jp/office/%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%83%87%E3%82%A4%E3%83%AA%E3%83%8F%E3%83%93%E3%83%AA%E9%A4%A8-%E8%A5%BF%E3%83%8E%E4%BA%AC/",
-   "dist_km": 1.59,
+   "dist_km": 1.34,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.668565864499854,
-   "lng": 135.77651718684606
+   "lat": 34.66993173496963,
+   "lng": 135.77361527943762,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "リゾートデイサービス ハッピーリライフplus",
    "addr": "奈良市六条2丁目10-9",
    "biz": "リハビリ・食事・入浴に特化したデイサービス",
    "hp": "https://www.happy-service.co.jp/office/%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%E3%83%87%E3%82%A4%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%83%AA%E3%83%A9%E3%82%A4%E3%83%95plus/",
-   "dist_km": 1.59,
+   "dist_km": 1.32,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66912037066685,
-   "lng": 135.776397909607
+   "lat": 34.67014190076281,
+   "lng": 135.77360313843732,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "有料老人ホーム ハッピーガーデン京西",
    "addr": "奈良市五条3丁目20-8",
    "biz": "住宅型有料老人ホーム（要介護1～5・認知症対応可）",
    "hp": "https://www.happy-service.co.jp/office/%E6%9C%89%E6%96%99%E8%80%81%E4%BA%BA%E3%83%9B%E3%83%BC%E3%83%A0-%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E4%BA%AC%E8%A5%BF/",
-   "dist_km": 1.67,
+   "dist_km": 1.17,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.67483033333334,
-   "lng": 135.78039733333333
+   "lat": 34.672842,
+   "lng": 135.773859,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "どんたく",
    "addr": "奈良市尼辻西町3-5",
    "biz": "串揚げ居酒屋",
    "hp": "－",
-   "dist_km": 1.8,
+   "dist_km": 1.78,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68045910999538,
-   "lng": 135.78139197348932
+   "lat": 34.68054605499769,
+   "lng": 135.78155448674465,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "ならコープ コープ七条",
    "addr": "奈良市七条西町2丁目2-1100",
    "biz": "スーパーマーケット（生協・ならコープ）",
    "hp": "https://www.naracoop.or.jp/",
-   "dist_km": 1.83,
+   "dist_km": 1.73,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.6626075,
-   "lng": 135.7705835
+   "lat": 34.663751,
+   "lng": 135.770997,
+   "geo_method": "precise-geocodejp-unverified"
   },
   {
    "name": "ココカラファイン七条店",
    "addr": "奈良市七条西町2丁目1100",
    "biz": "ドラッグストア（ココカラファイン）",
    "hp": "https://www.cocokarafine.co.jp/",
-   "dist_km": 1.83,
+   "dist_km": 1.72,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66241155948256,
-   "lng": 135.7703488333412
+   "lat": 34.664125,
+   "lng": 135.771465,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "ノムラクリーニング コープ七条店",
    "addr": "奈良市七条西町2丁目1100",
    "biz": "クリーニング店（ノムラクリーニング）",
    "hp": "https://nc-nomura.com/",
-   "dist_km": 1.83,
+   "dist_km": 1.7,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.66278167200079,
-   "lng": 135.7709055735156
+   "lat": 34.6642112003509,
+   "lng": 135.7712031322764,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "セブンイレブン奈良学園大和町2丁目店",
    "addr": "奈良市学園大和町2丁目82",
    "biz": "コンビニエンスストア（セブンイレブン）",
    "hp": "https://www.sej.co.jp/",
-   "dist_km": 1.88,
+   "dist_km": 1.36,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68821284639069,
-   "lng": 135.74599849909342
+   "lat": 34.68620455917852,
+   "lng": 135.7517798776851,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "ファミリーマートエムズドラッグ学園大和店",
    "addr": "奈良市学園大和町6丁目1542-44",
    "biz": "コンビニエンスストア（ファミリーマート、ドラッグストア併設）",
    "hp": "https://www.family.co.jp/",
-   "dist_km": 1.88,
+   "dist_km": 2.39,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68795059725029,
-   "lng": 135.74616565268508
+   "lat": 34.69126363170033,
+   "lng": 135.74218013061187,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "越後 学園前店",
    "addr": "奈良市学園大和町2丁目230-1",
    "biz": "飲食店（うどん・そば・おでん）",
    "hp": "－",
-   "dist_km": 1.88,
+   "dist_km": 1.38,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68766417635735,
-   "lng": 135.74598408935333
+   "lat": 34.686315705902814,
+   "lng": 135.75169182696928,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "和食しゃぶしゃぶ かごの屋 学園前店",
    "addr": "奈良市学園大和町2丁目235-1",
    "biz": "飲食店（和食・しゃぶしゃぶ、かごの屋）",
    "hp": "https://kagonoya.food-kr.com/",
-   "dist_km": 1.88,
+   "dist_km": 1.37,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68823779608553,
-   "lng": 135.74616338085244
+   "lat": 34.68621103989941,
+   "lng": 135.75159335810946,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "食道園 奈良学園前店",
    "addr": "奈良市学園大和町2丁目124",
    "biz": "飲食店（焼肉、食道園）",
    "hp": "https://syokudoen.co.jp/",
-   "dist_km": 1.88,
+   "dist_km": 1.36,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.688074616492024,
-   "lng": 135.74591252750153
+   "lat": 34.68614797607967,
+   "lng": 135.7517453720893,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "Camino",
    "addr": "奈良市学園大和町4丁目3-2",
    "biz": "理容室（半個室のバーバーショップ）",
    "hp": "https://camino-cut-shave.com/",
-   "dist_km": 1.88,
+   "dist_km": 1.95,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.688062895436346,
-   "lng": 135.74653168101685
+   "lat": 34.686202,
+   "lng": 135.743805,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "ジューク",
    "addr": "奈良市学園大和町5丁目179",
    "biz": "理容室・美容室（カット・パーマ・カラー・ヘッドスパ）",
    "hp": "https://jukotoiawase.wixsite.com/ju-k",
-   "dist_km": 1.88,
+   "dist_km": 2.18,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.688113272219816,
-   "lng": 135.7462187868134
+   "lat": 34.689046,
+   "lng": 135.743064,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "ミルフォード",
    "addr": "奈良市学園大和町5丁目179",
    "biz": "ベーカリー",
    "hp": "－",
-   "dist_km": 1.88,
+   "dist_km": 2.19,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.6883920331358,
-   "lng": 135.74613931390766
+   "lat": 34.68928669661525,
+   "lng": 135.7430963941531,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "ラ・ボンヌ・サブール",
    "addr": "奈良市学園大和町4丁目7",
    "biz": "ベーカリー（国産小麦100%使用の手作りパン）",
    "hp": "https://www.lbs.jp/",
-   "dist_km": 1.88,
+   "dist_km": 1.95,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68822959524248,
-   "lng": 135.74629322402728
+   "lat": 34.6862322985854,
+   "lng": 135.74381376775307,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "なら速読",
    "addr": "奈良市学園大和町5丁目1-1",
    "biz": "個別指導の速読教室（なら速読）",
    "hp": "https://www.narasokudoku.com/",
-   "dist_km": 1.88,
+   "dist_km": 2.17,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68802423971377,
-   "lng": 135.74619120310504
+   "lat": 34.68899098818426,
+   "lng": 135.74306501427225,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "居酒屋こうちゃん",
    "addr": "奈良市学園大和町1丁目1-1",
    "biz": "居酒屋（和食・刺身/天ぷら等、早朝飲みも可）",
    "hp": "－",
-   "dist_km": 1.88,
+   "dist_km": 1.9,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68772032148525,
-   "lng": 135.74660728667547
+   "lat": 34.6897172050948,
+   "lng": 135.74770458775015,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "ツキムラ学園前店",
    "addr": "奈良市学園大和町2丁目87",
    "biz": "オーダースーツ専門店（ツキムラ）",
    "hp": "https://www.tukimura.com/",
-   "dist_km": 1.88,
+   "dist_km": 1.34,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.6883136824153,
-   "lng": 135.74590376470715
+   "lat": 34.68610976235918,
+   "lng": 135.75200569519475,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "笠井自動車販売（株）",
    "addr": "奈良市学園大和町2丁目48",
    "biz": "自動車整備・自動車販売店",
    "hp": "－",
-   "dist_km": 1.88,
+   "dist_km": 1.37,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.688214708654314,
-   "lng": 135.746361152878
+   "lat": 34.68626369691608,
+   "lng": 135.7517723093122,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "奈良市の中古車新車買い取り専門店 ボアソルチ",
    "addr": "奈良市学園大和町2丁目227-1",
    "biz": "中古車販売・買取専門店（買取台数月間約50台の地域密着店）",
    "hp": "－",
-   "dist_km": 1.88,
+   "dist_km": 1.35,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.688043711757324,
-   "lng": 135.74607748251225
+   "lat": 34.68608453041022,
+   "lng": 135.7518075416657,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "学園南クリニック",
    "addr": "奈良市学園大和町2丁目27",
    "biz": "整形外科・リウマチ科クリニック（医療法人香月会）",
    "hp": "https://www.gakuen-minami.jp/",
-   "dist_km": 1.88,
+   "dist_km": 1.35,
    "category": "病院",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68808648535141,
-   "lng": 135.7458355864116
+   "lat": 34.686217044435274,
+   "lng": 135.75201235415213,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "パンと暮らし ぷくぷく亭",
    "addr": "奈良市菅原東1丁目22-13",
    "biz": "天然酵母パンのベーカリー",
    "hp": "https://arinomamma.com/",
-   "dist_km": 1.89,
+   "dist_km": 1.78,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.687031098628665,
-   "lng": 135.77972384880795
+   "lat": 34.685453718216806,
+   "lng": 135.7793910335736,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "JAPAN BOOKS",
    "addr": "奈良市あやめ池南1丁目3-11",
    "biz": "書店（ジャパンブックス あやめ池店）",
    "hp": "－",
-   "dist_km": 1.89,
+   "dist_km": 2.18,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.694620350497594,
-   "lng": 135.76265849858132
+   "lat": 34.697254,
+   "lng": 135.761028,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "西大寺セントラルクリニック",
    "addr": "奈良市菅原東2丁目20-13",
    "biz": "内科・小児科クリニック（外科・整形外科・消化器内科も併設）",
    "hp": "https://www.nara-saidaijisentorarucl.com/",
-   "dist_km": 1.89,
+   "dist_km": 1.99,
    "category": "病院",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.686725529362725,
-   "lng": 135.78043284741847
+   "lat": 34.68785174792588,
+   "lng": 135.78033179373975,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "くにしげクリニック",
    "addr": "奈良市菅原東2丁目29-13",
    "biz": "整形外科・形成外科・美容外科クリニック",
    "hp": "https://www.kunisige.com/",
-   "dist_km": 1.89,
+   "dist_km": 1.97,
    "category": "病院",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68609334166386,
-   "lng": 135.78023149869705
+   "lat": 34.68773831095194,
+   "lng": 135.78009792392606,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "カンナ",
    "addr": "奈良市学園南3丁目13-30",
    "biz": "和カフェ（大和茶・甘味処、CAFE Kanna）",
    "hp": "－",
-   "dist_km": 1.96,
+   "dist_km": 1.99,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.693660516985055,
-   "lng": 135.75328177235704
+   "lat": 34.69263723374968,
+   "lng": 135.75059131276277,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "トータルカーサービスFirstGear",
    "addr": "奈良市大和田町1172-1",
    "biz": "中古車販売・整備・板金塗装（FirstGear）",
    "hp": "https://www.nara-firstgear.com/",
-   "dist_km": 1.96,
+   "dist_km": 1.97,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.6631768160557,
-   "lng": 135.7496043562142
+   "lat": 34.663209408027846,
+   "lng": 135.7498581781071,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "ウェルライフ希",
@@ -2949,151 +3204,165 @@
    "dist_km": 1.96,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.6632948157303,
-   "lng": 135.74992314832605
+   "lat": 34.66326840786515,
+   "lng": 135.75001757416302,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "グループホームホームケアー学園南",
    "addr": "奈良市学園南3丁目13-3",
    "biz": "認知症対応型共同生活介護（グループホーム）",
    "hp": "https://homecare.co.jp/facility/%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%B1%E3%82%A2%E3%83%BC%E5%AD%A6%E5%9C%92%E5%8D%97/",
-   "dist_km": 1.96,
+   "dist_km": 2.0,
    "category": "老人ホーム",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.69302553546847,
-   "lng": 135.75295795163547
+   "lat": 34.692662623979786,
+   "lng": 135.75045697711445,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "しらやま医院",
    "addr": "奈良市尼辻中町10-27",
    "biz": "呼吸器内科・循環器内科・アレルギー科クリニック",
    "hp": "－",
-   "dist_km": 2.13,
+   "dist_km": 2.12,
    "category": "病院",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68025196300913,
-   "lng": 135.78536216115955
+   "lat": 34.680303981504565,
+   "lng": 135.78540208057976,
+   "geo_method": "exact(base-fallback)"
   },
   {
    "name": "まつむら整形外科クリニック",
    "addr": "奈良市学園中3丁目705-63",
    "biz": "整形外科・リハビリテーション科・ペインクリニック内科",
    "hp": "https://matsumura-orthop.com/",
-   "dist_km": 2.42,
+   "dist_km": 2.31,
    "category": "病院",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.69463544855292,
-   "lng": 135.74517669685898
+   "lat": 34.69321402427646,
+   "lng": 135.7457342484295,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "おかはし整形外科",
    "addr": "奈良市三碓3丁目11-1",
    "biz": "整形外科・外科・リハビリテーション科（骨粗しょう症検査対応）",
    "hp": "http://okahashi-seikeigeka.com/",
-   "dist_km": 2.47,
+   "dist_km": 2.18,
    "category": "病院",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.68673027794224,
-   "lng": 135.73764512566152
+   "lat": 34.687794,
+   "lng": 135.74208,
+   "geo_method": "precise-geocodejp"
   },
   {
    "name": "花工房 百花繚乱 学園前店",
    "addr": "奈良市学園北1丁目1-11",
    "biz": "生花店（フラワーギフト・観葉植物）",
    "hp": "－",
-   "dist_km": 2.55,
+   "dist_km": 2.66,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.698797920562946,
-   "lng": 135.75142186398432
+   "lat": 34.69895315596748,
+   "lng": 135.74922863164517,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "おとな自習室＜自習室がくえんまえ＞",
    "addr": "奈良市学園北2丁目5-1",
    "biz": "有料自習室（全国チェーン「おとな自習室」）",
    "hp": "https://otona-j.jp/",
-   "dist_km": 2.55,
+   "dist_km": 2.47,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.69864142079049,
-   "lng": 135.7514882331804
+   "lat": 34.698638476982836,
+   "lng": 135.75357130184184,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "atelil",
    "addr": "奈良市学園北2丁目1-6",
    "biz": "子ども向け個別学習・アトリエ教室",
    "hp": "https://atelil-nara.com/",
-   "dist_km": 2.55,
+   "dist_km": 2.45,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.698759664046165,
-   "lng": 135.75139736989854
+   "lat": 34.69846126490836,
+   "lng": 135.75367280867817,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "志有会 自習室",
    "addr": "奈良市学園北1丁目8-4",
    "biz": "有料自習室（個別ブース型学習スペース、学習相談可）",
    "hp": "https://shiyu-kai.com/",
-   "dist_km": 2.55,
+   "dist_km": 2.63,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.69892131379998,
-   "lng": 135.75170079263077
+   "lat": 34.69869964522559,
+   "lng": 135.74925213913073,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "石田数楽研（旧：石川数学塾）学園前教室",
    "addr": "奈良市学園北2丁目1-6",
    "biz": "数学・物理専門学習塾（数学オリンピック等メダリスト輩出）",
    "hp": "http://www.ishikawasugakujuku.com/",
-   "dist_km": 2.55,
+   "dist_km": 2.48,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.69904175326156,
-   "lng": 135.75184847291172
+   "lat": 34.69870034248179,
+   "lng": 135.7536176968797,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "啓林堂書店 学園前店",
    "addr": "奈良市学園北1丁目9-1",
    "biz": "書店（啓林堂書店）",
    "hp": "https://www.books-keirindo.co.jp/",
-   "dist_km": 2.55,
+   "dist_km": 2.64,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.698684119445595,
-   "lng": 135.75085555111247
+   "lat": 34.698787833156665,
+   "lng": 135.74925501971575,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "フルーツ・ミセゼン",
    "addr": "奈良市学園北1丁目9-1",
    "biz": "果物専門店（1991年創業の老舗フルーツ店）",
    "hp": "https://misezen-fruits.sakura.ne.jp/",
-   "dist_km": 2.55,
+   "dist_km": 2.63,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.69878453276061,
-   "lng": 135.7511947646909
+   "lat": 34.698693716191656,
+   "lng": 135.74934576357944,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "旬海 学園前店",
    "addr": "奈良市学園北1丁目9-1",
    "biz": "鮮魚専門店（奈良県中央卸売市場の七海水産直営店）",
    "hp": "https://www.nanamisuisan.jp/shunkai",
-   "dist_km": 2.55,
+   "dist_km": 2.65,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.69918255831009,
-   "lng": 135.75112618029195
+   "lat": 34.698789851629805,
+   "lng": 135.74915831975338,
+   "geo_method": "exact(digit-chome-resolved)"
   },
   {
    "name": "魚万 学園前店",
    "addr": "奈良市学園北1丁目10-1",
    "biz": "かまぼこ・さつま揚げ専門店（創業1901年の老舗「魚万」）",
    "hp": "https://www.uoman.jp/",
-   "dist_km": 2.55,
+   "dist_km": 2.63,
    "category": "店舗",
    "src": "Googleマップ（業種キーワード検索）",
-   "lat": 34.69923630890881,
-   "lng": 135.751223909333
+   "lat": 34.698725746443785,
+   "lng": 135.74943088548483,
+   "geo_method": "exact(digit-chome-resolved)"
   }
  ],
  "categories": {
