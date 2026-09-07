@@ -1,0 +1,13 @@
+name = "nara-business-map-auth"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+
+# workers.dev のサブドメインで動かす場合は route 指定不要です。
+# デプロイ後に表示される
+#   https://nara-business-map-auth.<あなたのサブドメイン>.workers.dev
+# が実際にアクセスするURLになります。
+#
+# 独自ドメインを使う場合は、以下のコメントを外して調整してください。
+# routes = [
+#   { pattern = "map.example.com/*", zone_name = "example.com" }
+# ]
